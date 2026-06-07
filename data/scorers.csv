@@ -1,0 +1,31 @@
+season_id,season_year,season_start,season_end,player_id,player_name,nationality,date_of_birth,team_id,team_name,position,matches_played,goals,assists,penalties
+1603,2023,2023-08-13,2024-05-19,8279,Viktor Gyökeres,Sweden,1998-06-04,498,Sporting Clube de Portugal,Offence,33,29,8.0,5.0
+1603,2023,2023-08-13,2024-05-19,74554,Simon Banza,Congo DR,1996-08-13,5613,Sporting Clube de Braga,Offence,28,21,5.0,3.0
+1603,2023,2023-08-13,2024-05-19,32780,Rafa Mújica,Spain,1998-10-29,712,FC Arouca,Centre-Forward,30,20,3.0,
+1603,2023,2023-08-13,2024-05-19,81736,Samuel Essende,DR Congo,1998-01-23,5589,FC Vizela,Offence,32,15,1.0,
+1603,2023,2023-08-13,2024-05-19,45400,Paulinho,Portugal,1992-11-09,498,Sporting Clube de Portugal,Centre-Forward,31,15,4.0,
+1603,2023,2023-08-13,2024-05-19,3880,Cristo González,Spain,1997-10-24,712,FC Arouca,Offence,34,15,10.0,3.0
+1603,2023,2023-08-13,2024-05-19,28129,Jhonder Cádiz,Venezuela,1995-07-29,5531,FC Famalicão,Centre-Forward,30,15,,3.0
+1603,2023,2023-08-13,2024-05-19,16748,Rafa Silva,Portugal,1993-05-17,1903,Sport Lisboa e Benfica,Offence,33,14,12.0,
+1603,2023,2023-08-13,2024-05-19,32309,Héctor Hernández,Spain,1995-09-14,1103,GD Chaves,Offence,33,14,1.0,5.0
+1603,2023,2023-08-13,2024-05-19,131260,Evanilson,Brazil,1999-10-06,503,FC Porto,Centre-Forward,27,13,3.0,2.0
+2312,2024,2024-08-11,2025-05-17,8279,Viktor Gyökeres,Sweden,1998-06-04,498,Sporting Clube de Portugal,Offence,33,39,6.0,12.0
+2312,2024,2024-08-11,2025-05-17,67299,Vangelis Pavlidis,Greece,1998-11-21,1903,Sport Lisboa e Benfica,Offence,34,19,7.0,3.0
+2312,2024,2024-08-11,2025-05-17,215434,Samu Omorodion,Spain,,503,FC Porto,Centre-Forward,29,19,3.0,4.0
+2312,2024,2024-08-11,2025-05-17,141542,Clayton,Brazil,1999-01-11,496,Rio Ave FC,Offence,31,14,3.0,3.0
+2312,2024,2024-08-11,2025-05-17,141357,Alejandro Marqués,Venezuela,2000-08-04,582,GD Estoril Praia,Centre-Forward,33,11,,4.0
+2312,2024,2024-08-11,2025-05-17,149737,Muhammed Kerem Aktürkoğlu,Turkey,1998-10-21,1903,Sport Lisboa e Benfica,Offence,30,11,10.0,
+2312,2024,2024-08-11,2025-05-17,45401,Ricardo Horta,Portugal,1994-09-15,5613,Sporting Clube de Braga,Left Winger,34,11,4.0,
+2312,2024,2024-08-11,2025-05-17,553,Yanis Begraoui,France,2001-07-04,582,GD Estoril Praia,Centre-Forward,33,11,2.0,2.0
+2312,2024,2024-08-11,2025-05-17,14003,Cassiano,Brazil,1989-06-16,6618,Casa Pia AC,Centre-Forward,27,10,3.0,4.0
+2312,2024,2024-08-11,2025-05-17,261273,Rodrigo Mora,Portugal,2007-05-05,503,FC Porto,Midfield,26,10,4.0,
+2433,2025,2025-08-08,2026-05-17,32386,Luis Suárez,Colombia,1997-12-02,498,Sporting Clube de Portugal,Offence,32,28,6.0,5.0
+2433,2025,2025-08-08,2026-05-17,67299,Vangelis Pavlidis,Greece,1998-11-21,1903,Sport Lisboa e Benfica,Offence,34,23,3.0,10.0
+2433,2025,2025-08-08,2026-05-17,553,Yanis Begraoui,France,2001-07-04,582,GD Estoril Praia,Centre-Forward,34,20,1.0,5.0
+2433,2025,2025-08-08,2026-05-17,188085,Chuchu,Venezuela,1998-05-04,5529,CD Nacional,Offence,33,18,,5.0
+2433,2025,2025-08-08,2026-05-17,121007,Rodrigo Zalazar,Uruguay,1999-08-12,5613,Sporting Clube de Braga,Midfield,29,16,5.0,10.0
+2433,2025,2025-08-08,2026-05-17,45401,Ricardo Horta,Portugal,1994-09-15,5613,Sporting Clube de Braga,Left Winger,28,15,4.0,3.0
+2433,2025,2025-08-08,2026-05-17,215434,Samu Omorodion,Spain,,503,FC Porto,Centre-Forward,20,13,1.0,5.0
+2433,2025,2025-08-08,2026-05-17,92050,Pedro Gonçalves,Portugal,1998-06-28,498,Sporting Clube de Portugal,Attacking Midfield,28,13,7.0,2.0
+2433,2025,2025-08-08,2026-05-17,37160,Murilo,Brazil,1994-10-31,5533,Gil Vicente FC,Right Winger,32,11,4.0,6.0
+2433,2025,2025-08-08,2026-05-17,178755,Pablo Felipe,Brazil,2004-01-02,5533,Gil Vicente FC,Offence,13,10,,2.0

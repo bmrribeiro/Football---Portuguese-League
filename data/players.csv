@@ -1,0 +1,1707 @@
+team_id,team_name,player_id,player_name,position,date_of_birth,nationality,season
+496,Rio Ave FC,110864,Kevin Chamorro,Goalkeeper,2000-04-08,Costa Rica,2025
+496,Rio Ave FC,114150,Cezary Miszta,Goalkeeper,2001-10-30,Poland,2025
+496,Rio Ave FC,135116,Ennio van der Gouw,Goalkeeper,2001-01-01,England,2025
+496,Rio Ave FC,4266,Omar Richards,Defence,1998-02-15,England,2025
+496,Rio Ave FC,8966,Jakub Brabec,Defence,1992-08-06,Czech Republic,2025
+496,Rio Ave FC,81950,Georgios Liavas,Defence,2001-02-12,Greece,2025
+496,Rio Ave FC,193588,Joao Tome,Defence,2003-02-12,Portugal,2025
+496,Rio Ave FC,209594,Andreas Ndoj,Defence,2003-02-02,Greece,2025
+496,Rio Ave FC,250593,Francisco Petrasso,Defence,2002-02-28,Argentina,2025
+496,Rio Ave FC,276192,Gustavo,Defence,2004-07-25,Brazil,2025
+496,Rio Ave FC,188099,Julien Lomboto,Midfield,2002-05-13,France,2025
+496,Rio Ave FC,245365,Lorent Talla,Midfield,,Kosovo,2025
+496,Rio Ave FC,246203,Diogo Oliveira,Midfield,2002-07-16,Brazil,2025
+496,Rio Ave FC,250777,Ryan Guilherme,Midfield,2002-12-07,Brazil,2025
+496,Rio Ave FC,264302,Theofanis Bakoulas,Midfield,2005-01-04,Greece,2025
+496,Rio Ave FC,264675,Antonis Papakanellos,Midfield,2005-08-11,Greece,2025
+496,Rio Ave FC,274157,Rafael Genuino,Midfield,2006-02-23,Brazil,2025
+496,Rio Ave FC,32141,Marc Gual Huguet,Offence,1996-03-13,Spain,2025
+496,Rio Ave FC,118074,Dario Špikić,Offence,1999-03-22,Croatia,2025
+496,Rio Ave FC,211519,Tobias Medina,Offence,2004-03-03,Argentina,2025
+496,Rio Ave FC,243745,Tamble Monteiro,Offence,2000-11-15,Portugal,2025
+496,Rio Ave FC,244984,Karem Zoabi,Offence,2006-05-03,Israel,2025
+496,Rio Ave FC,247235,Jalen Blesa,Offence,2001-02-05,Spain,2025
+496,Rio Ave FC,185179,Brandon Aguilera,Attacking Midfield,2003-06-28,Costa Rica,2025
+496,Rio Ave FC,185150,João Graça,Central Midfield,1995-06-18,Portugal,2025
+496,Rio Ave FC,178767,Leonardo Buta,Left-Back,2002-06-05,Portugal,2025
+496,Rio Ave FC,149940,Nelson Abbey,Centre-Back,2003-08-28,England,2025
+496,Rio Ave FC,142162,Ole Pohlmann,Central Midfield,2001-04-05,Germany,2025
+496,Rio Ave FC,111896,Tamás Nikitscher,Central Midfield,1999-11-03,Hungary,2025
+496,Rio Ave FC,15990,Marious Vrousai,Right Winger,1998-07-02,Albania,2025
+496,Rio Ave FC,214166,Amine Rehmi,Left Winger,2002-04-01,Netherlands,2025
+498,Sporting Clube de Portugal,32014,Rui Silva,Goalkeeper,1994-02-07,Portugal,2025
+498,Sporting Clube de Portugal,82207,João Virgínia,Goalkeeper,1999-10-10,Portugal,2025
+498,Sporting Clube de Portugal,178770,Diego Callai,Goalkeeper,2004-07-18,Brazil,2025
+498,Sporting Clube de Portugal,194860,Francisco Silva,Goalkeeper,2005-11-20,Portugal,2025
+498,Sporting Clube de Portugal,28770,Maximiliano Araújo,Defence,2000-02-15,Uruguay,2025
+498,Sporting Clube de Portugal,137045,Georgios Vagiannidis,Defence,2001-09-12,Greece,2025
+498,Sporting Clube de Portugal,145357,Gonçalo Inácio,Defence,2001-08-25,Portugal,2025
+498,Sporting Clube de Portugal,160926,Zeno Debast,Defence,2003-10-24,Belgium,2025
+498,Sporting Clube de Portugal,178768,Eduardo Quaresma,Defence,2002-03-02,Portugal,2025
+498,Sporting Clube de Portugal,191760,Ousmane Diomande,Defence,2003-12-04,Ivory Coast,2025
+498,Sporting Clube de Portugal,213298,Rômulo,Defence,2004-01-31,Brazil,2025
+498,Sporting Clube de Portugal,229418,Rayan Lucas,Defence,2005-01-03,Brazil,2025
+498,Sporting Clube de Portugal,242475,Bruno Ramos,Defence,2005-01-18,Brazil,2025
+498,Sporting Clube de Portugal,277088,David Moreira,Defence,2004-04-18,Portugal,2025
+498,Sporting Clube de Portugal,282381,Salvador Blopa,Defence,2007-06-13,Portugal,2025
+498,Sporting Clube de Portugal,144628,Giorgi Kochorashvili,Midfield,1999-06-29,Georgia,2025
+498,Sporting Clube de Portugal,270551,João Simões,Midfield,2007-01-06,Portugal,2025
+498,Sporting Clube de Portugal,273613,Eduardo Felicíssimo,Midfield,2007-01-08,Portugal,2025
+498,Sporting Clube de Portugal,32386,Luis Suárez,Offence,1997-12-02,Colombia,2025
+498,Sporting Clube de Portugal,37332,Trincão,Offence,1999-12-29,Portugal,2025
+498,Sporting Clube de Portugal,186459,Fotis Ioannidis,Offence,2000-01-10,Greece,2025
+498,Sporting Clube de Portugal,204124,Mauro Couto,Offence,2005-11-15,Portugal,2025
+498,Sporting Clube de Portugal,229421,Geovany Quenda,Offence,2007-04-30,Guinea-Bissau,2025
+498,Sporting Clube de Portugal,247303,Rafael Nel,Offence,2005-04-03,Portugal,2025
+498,Sporting Clube de Portugal,275336,Lucas Anjos,Offence,2004-07-07,Portugal,2025
+498,Sporting Clube de Portugal,280747,Flávio Gonçalves,Offence,2007-05-30,France,2025
+498,Sporting Clube de Portugal,283132,Souleymane Faye,Offence,2003-02-08,Senegal,2025
+498,Sporting Clube de Portugal,176840,Ivan Fresneda,Right-Back,2004-09-28,Spain,2025
+498,Sporting Clube de Portugal,128825,Geny Catamo,Right Winger,2001-01-26,Mozambique,2025
+498,Sporting Clube de Portugal,102336,Daniel Bragança,Central Midfield,1999-05-27,Portugal,2025
+498,Sporting Clube de Portugal,92050,Pedro Gonçalves,Attacking Midfield,1998-06-28,Portugal,2025
+498,Sporting Clube de Portugal,73998,Morten Hjulmand,Defensive Midfield,1999-06-25,Denmark,2025
+498,Sporting Clube de Portugal,53190,Ricardo Mangas,Left-Back,1998-03-19,Portugal,2025
+498,Sporting Clube de Portugal,49092,Hidemasa Morita,Central Midfield,1995-05-10,Japan,2025
+498,Sporting Clube de Portugal,45463,Nuno Santos,Left-Back,1995-02-13,Portugal,2025
+498,Sporting Clube de Portugal,227767,João Muniz,Centre-Back,2005-06-26,Portugal,2025
+498,Sporting Clube de Portugal,217543,Samuel Justo,Central Midfield,2004-04-02,Portugal,2025
+498,Sporting Clube de Portugal,192653,Luis Guilherme,Right Winger,2006-02-09,Brazil,2025
+503,FC Porto,37362,Diogo Costa,Goalkeeper,1999-09-19,Portugal,2025
+503,FC Porto,43598,Andorinha,Goalkeeper,1996-02-02,Portugal,2025
+503,FC Porto,45217,Cláudio Ramos,Goalkeeper,1991-11-16,Portugal,2025
+503,FC Porto,216825,Dominik Prpić,Defence,2004-05-19,Croatia,2025
+503,FC Porto,227047,Martim Fernandes,Defence,2006-01-18,Portugal,2025
+503,FC Porto,250544,Gabriel Brás,Defence,2004-03-25,Portugal,2025
+503,FC Porto,2126,Seko Fofana,Midfield,1995-05-07,Ivory Coast,2025
+503,FC Porto,39102,William da Silva,Midfield,2006-03-15,Brazil,2025
+503,FC Porto,221262,Victor Froholdt,Midfield,2006-02-25,Denmark,2025
+503,FC Porto,261273,Rodrigo Mora,Midfield,2007-05-05,Portugal,2025
+503,FC Porto,262669,André Oliveira,Midfield,2005-10-01,Portugal,2025
+503,FC Porto,262715,João Teixeira,Midfield,2006-04-09,Portugal,2025
+503,FC Porto,276710,Bernardo Lima,Midfield,2008-03-26,Portugal,2025
+503,FC Porto,278459,Tiago Silva,Midfield,2007-07-10,Portugal,2025
+503,FC Porto,188466,Deniz Gul,Offence,2004-07-02,Turkey,2025
+503,FC Porto,251113,Gonçalo Sousa,Offence,2006-06-30,Portugal,2025
+503,FC Porto,262708,Tiago Andrade,Offence,2005-10-21,Portugal,2025
+503,FC Porto,265174,Oskar Pietuszewski,Offence,2008-05-20,Poland,2025
+503,FC Porto,265525,Bryan Caicedo,Offence,2006-08-14,Colombia,2025
+503,FC Porto,285295,André Miranda,Offence,2007-09-25,Portugal,2025
+503,FC Porto,153629,Alan Varela,Defensive Midfield,2001-07-04,Argentina,2025
+503,FC Porto,150519,Gabriel Veiga,Central Midfield,2002-05-27,Spain,2025
+503,FC Porto,147286,Jakub Kiwior,Centre-Back,2000-02-15,Poland,2025
+503,FC Porto,127034,Borja Sainz,Left Winger,2001-02-01,Spain,2025
+503,FC Porto,125160,Zaidu Sanusi,Left-Back,1997-06-13,Nigeria,2025
+503,FC Porto,113427,Terem Moffi,Centre-Forward,1999-05-25,Nigeria,2025
+503,FC Porto,98611,Moura,Left-Back,1999-08-16,Portugal,2025
+503,FC Porto,45671,Nehuén Pérez,Centre-Back,2000-06-24,Argentina,2025
+503,FC Porto,8086,Jan Bednarek,Centre-Back,1996-04-12,Poland,2025
+503,FC Porto,7452,Luuk de Jong,Centre-Forward,1990-08-27,Switzerland,2025
+503,FC Porto,7448,Pablo Rosario,Defensive Midfield,1997-01-07,Netherlands,2025
+503,FC Porto,3224,Thiago Silva,Centre-Back,1984-09-22,Brazil,2025
+503,FC Porto,2018,Yann Karamoh,Left Winger,1998-07-08,Ivory Coast,2025
+503,FC Porto,1166,Pepê,Left Winger,1997-02-24,Brazil,2025
+503,FC Porto,215434,Samu Omorodion,Centre-Forward,,Spain,2025
+503,FC Porto,184496,Alberto Baio,Right-Back,2003-09-29,Portugal,2025
+582,GD Estoril Praia,7821,Joel Robles,Goalkeeper,1990-06-17,Spain,2025
+582,GD Estoril Praia,153884,Martin Turk,Goalkeeper,2003-08-21,Slovenia,2025
+582,GD Estoril Praia,213111,Diogo Dias,Goalkeeper,2003-06-17,Portugal,2025
+582,GD Estoril Praia,37554,Ferro,Defence,1997-03-26,Portugal,2025
+582,GD Estoril Praia,37555,Pedro Amaral,Defence,1997-08-25,Portugal,2025
+582,GD Estoril Praia,75196,Felix Bacher,Defence,2000-10-25,Austria,2025
+582,GD Estoril Praia,141472,Ricard Sánchez,Defence,2000-02-22,Spain,2025
+582,GD Estoril Praia,151006,Kévin Boma,Defence,2002-11-20,France,2025
+582,GD Estoril Praia,175853,Antef Tsoungui,Defence,2002-12-30,Belgium,2025
+582,GD Estoril Praia,185120,Gonçalo Costa,Defence,2000-02-18,Portugal,2025
+582,GD Estoril Praia,190742,Or Israelov,Defence,2004-09-02,Israel,2025
+582,GD Estoril Praia,281951,Longin Bimai,Defence,2006-02-17,France,2025
+582,GD Estoril Praia,292946,Jan Montes,Defence,2006-05-12,Spain,2025
+582,GD Estoril Praia,8569,Xeka,Midfield,1994-11-10,Portugal,2025
+582,GD Estoril Praia,16752,João Carvalho,Midfield,1997-03-09,Portugal,2025
+582,GD Estoril Praia,146983,Jandro Orellana,Midfield,2000-08-07,Spain,2025
+582,GD Estoril Praia,213075,Peixinho,Midfield,2004-05-23,Portugal,2025
+582,GD Estoril Praia,243570,Pedro Carvalho,Midfield,2003-02-14,Portugal,2025
+582,GD Estoril Praia,254264,Nodar Lominadze,Midfield,2002-04-04,Georgia,2025
+582,GD Estoril Praia,270782,Luís Gomes,Midfield,2004-04-24,Portugal,2025
+582,GD Estoril Praia,281958,Bernardo Lourenço,Midfield,2002-08-21,Portugal,2025
+582,GD Estoril Praia,189251,Khayon Edwards,Offence,2003-09-12,England,2025
+582,GD Estoril Praia,249234,André,Left Winger,2001-05-19,Portugal,2025
+582,GD Estoril Praia,141357,Alejandro Marqués,Centre-Forward,2000-08-04,Venezuela,2025
+582,GD Estoril Praia,135650,Jordan Holsgrove,Defensive Midfield,1999-09-10,Scotland,2025
+582,GD Estoril Praia,16754,Pizzi,Attacking Midfield,1989-10-06,Portugal,2025
+582,GD Estoril Praia,636,Rafik Guitane,Right Winger,1999-05-26,France,2025
+582,GD Estoril Praia,553,Yanis Begraoui,Centre-Forward,2001-07-04,France,2025
+583,Moreirense FC,45260,Caio Secco,Goalkeeper,1990-12-22,Brazil,2025
+583,Moreirense FC,52791,André Ferreira,Goalkeeper,1996-05-29,Portugal,2025
+583,Moreirense FC,79821,Mika,Goalkeeper,1991-03-08,Switzerland,2025
+583,Moreirense FC,179028,Michel Augusto,Defence,2003-05-20,Brazil,2025
+583,Moreirense FC,245259,Diogo Travassos,Defence,2004-03-31,Portugal,2025
+583,Moreirense FC,249408,Kevyn Monteiro,Defence,2005-09-13,Brazil,2025
+583,Moreirense FC,262652,Kiko,Defence,2002-04-16,Portugal,2025
+583,Moreirense FC,263709,Leandro Santos,Defence,2005-09-28,Portugal,2025
+583,Moreirense FC,271514,Álvaro Martínez,Defence,2002-05-04,Spain,2025
+583,Moreirense FC,178712,Vasco Sousa,Midfield,2003-04-03,Portugal,2025
+583,Moreirense FC,191408,Rodri Alonso,Midfield,2003-01-04,Spain,2025
+583,Moreirense FC,191985,Mateja Stjepanovic,Midfield,2004-02-20,Serbia,2025
+583,Moreirense FC,263535,Nile John,Midfield,2003-03-06,England,2025
+583,Moreirense FC,270448,Jimi Gower,Midfield,2004-10-01,England,2025
+583,Moreirense FC,274500,Afonso Assis,Midfield,2006-07-15,Portugal,2025
+583,Moreirense FC,291863,Miguel Silva,Midfield,2007-12-17,Portugal,2025
+583,Moreirense FC,105208,Kiko Bondoso,Offence,1995-11-17,Portugal,2025
+583,Moreirense FC,149744,Cédric Teguia,Offence,2001-10-01,Cameroon,2025
+583,Moreirense FC,211818,Luís Semedo,Offence,2003-08-11,Portugal,2025
+583,Moreirense FC,264054,Landerson,Offence,2006-12-12,Brazil,2025
+583,Moreirense FC,275027,Yan Maranhão,Offence,2002-09-13,Brazil,2025
+583,Moreirense FC,213097,Gilberto Batista,Centre-Back,2003-12-29,Guinea-Bissau,2025
+583,Moreirense FC,188084,Dinis Pinto,Right-Back,2000-08-24,Portugal,2025
+583,Moreirense FC,171328,Fabiano Silva,Right-Back,2000-03-14,Brazil,2025
+583,Moreirense FC,169237,Alanzinho,Attacking Midfield,2000-03-08,Brazil,2025
+583,Moreirense FC,13839,Maracás,Centre-Back,1994-04-27,Brazil,2025
+712,FC Arouca,100703,Ignacio De Arruabarrena,Goalkeeper,1997-01-16,Uruguay,2025
+712,FC Arouca,102210,João Valido,Goalkeeper,2000-03-03,Portugal,2025
+712,FC Arouca,202404,Jakub Vinarčík,Goalkeeper,2005-07-11,Slovakia,2025
+712,FC Arouca,131240,Amadou Dante,Defence,2000-10-07,Mali,2025
+712,FC Arouca,140169,José Fontán,Defence,2000-02-11,Spain,2025
+712,FC Arouca,151938,Boris Popović,Defence,2000-02-26,France,2025
+712,FC Arouca,157101,Diogo Monteiro,Defence,2005-01-28,Switzerland,2025
+712,FC Arouca,216483,Omar Fayed,Defence,2003-07-04,Egypt,2025
+712,FC Arouca,275631,José Silva,Defence,2005-08-20,Portugal,2025
+712,FC Arouca,81391,Barbero,Offence,1998-08-17,Spain,2025
+712,FC Arouca,161005,Dylan Nandín,Offence,2002-02-28,Uruguay,2025
+712,FC Arouca,178782,Brian Mansilla,Offence,2002-05-14,Uruguay,2025
+712,FC Arouca,281961,Batata,Offence,2007-04-15,Portugal,2025
+712,FC Arouca,270595,Mateo Flores,Central Midfield,2004-04-07,Spain,2025
+712,FC Arouca,214415,Espen van Ee,Central Midfield,2003-07-05,Netherlands,2025
+712,FC Arouca,203446,Yellu,Central Midfield,2004-05-25,Spain,2025
+712,FC Arouca,191142,Pedro Santos,Central Midfield,2000-10-12,Portugal,2025
+712,FC Arouca,182405,Hyun-Ju Lee,Attacking Midfield,2003-02-07,South Korea,2025
+712,FC Arouca,180178,Puche,Left Winger,2001-04-30,Spain,2025
+712,FC Arouca,169128,Taichi Fukui,Central Midfield,2004-07-15,Japan,2025
+712,FC Arouca,153734,Matí­as Rocha,Centre-Back,2001-02-13,Uruguay,2025
+712,FC Arouca,152585,Fally Mayulu,Centre-Forward,2002-07-15,France,2025
+712,FC Arouca,143641,Alfonso Trezza,Right Winger,1999-06-22,Uruguay,2025
+712,FC Arouca,136929,Pablo Gozalbez,Attacking Midfield,2001-04-30,Spain,2025
+712,FC Arouca,92089,Naïs Djouahra,Left Winger,1999-11-23,France,2025
+712,FC Arouca,80899,Javi Sánchez,Centre-Back,1997-03-14,Spain,2025
+712,FC Arouca,53121,Tiago Esgaio,Right-Back,1995-08-01,Portugal,2025
+712,FC Arouca,21132,David Simão,Central Midfield,1990-05-15,France,2025
+712,FC Arouca,7620,Bas Kuipers,Left-Back,1994-08-17,Netherlands,2025
+1049,CD Tondela,152461,Lucas Cañizars,Goalkeeper,2002-05-10,Spain,2025
+1049,CD Tondela,182049,Bernardo Fontes,Goalkeeper,2002-07-23,Brazil,2025
+1049,CD Tondela,263552,Gabriel Souza,Goalkeeper,1997-01-01,Brazil,2025
+1049,CD Tondela,281728,Rodrigo Silva,Goalkeeper,2009-05-09,Portugal,2025
+1049,CD Tondela,32288,João Afonso,Defence,1990-05-28,Portugal,2025
+1049,CD Tondela,45331,Bebeto,Defence,1990-01-01,Brazil,2025
+1049,CD Tondela,98947,Rodrigo Conceição,Defence,2000-01-02,Portugal,2025
+1049,CD Tondela,146970,Christian Marques,Defence,2003-01-15,Switzerland,2025
+1049,CD Tondela,166113,Emmanuel Maviram,Defence,2001-04-04,Nigeria,2025
+1049,CD Tondela,171329,Tiago Manso,Defence,1999-12-13,Portugal,2025
+1049,CD Tondela,178447,Brayan Medina,Defence,2002-03-04,Colombia,2025
+1049,CD Tondela,187212,Joao Silva,Defence,1999-01-14,Portugal,2025
+1049,CD Tondela,281956,Tomás Brito,Defence,2007-09-13,Portugal,2025
+1049,CD Tondela,82672,Benjamin Mbunga-Kimpioka,Midfield,2000-02-21,Sweden,2025
+1049,CD Tondela,133788,Sphephelo Sithole,Midfield,1999-03-03,South Africa,2025
+1049,CD Tondela,167273,Helder Tavares,Midfield,1989-12-26,Portugal,2025
+1049,CD Tondela,204143,Hugo Félix,Midfield,2004-03-03,Portugal,2025
+1049,CD Tondela,243612,Cícero,Midfield,1997-05-10,Brazil,2025
+1049,CD Tondela,262938,Juan Rodríguez,Midfield,2006-03-27,Ecuador,2025
+1049,CD Tondela,102355,Arjen van der Heide,Offence,2001-11-19,Netherlands,2025
+1049,CD Tondela,179588,Sie Ouattara,Offence,2002-05-20,Ivory Coast,2025
+1049,CD Tondela,242516,Pedro Maranhão,Offence,1999-03-02,Brazil,2025
+1049,CD Tondela,255930,Makan Aïko,Left Winger,2001-01-07,France,2025
+1049,CD Tondela,251133,Xabi Huarte,Attacking Midfield,2001-02-25,Spain,2025
+1049,CD Tondela,188926,Joe Hodge,Defensive Midfield,2004-06-05,England,2025
+1049,CD Tondela,148272,Rémy Vita,Left-Back,2001-04-01,France,2025
+1049,CD Tondela,8758,Rony Lopes,Right Winger,1995-12-28,Brazil,2025
+1049,CD Tondela,812,Jordan Siebatcheu,Centre-Forward,1996-04-26,USA,2025
+1903,Sport Lisboa e Benfica,111481,Anatolii Trubin,Goalkeeper,2001-08-01,Ukraine,2025
+1903,Sport Lisboa e Benfica,153846,Samuel Soares,Goalkeeper,2002-06-15,Portugal,2025
+1903,Sport Lisboa e Benfica,273525,Diogo Ferreira,Goalkeeper,2007-02-10,Portugal,2025
+1903,Sport Lisboa e Benfica,282866,Arnas Voitinovičius,Goalkeeper,2006-08-30,Lithuania,2025
+1903,Sport Lisboa e Benfica,3205,Nicolás Otamendi,Defence,1988-02-12,Argentina,2025
+1903,Sport Lisboa e Benfica,81816,Amar Dedić,Defence,2002-08-18,Austria,2025
+1903,Sport Lisboa e Benfica,177842,Tomas Araujo,Defence,2002-05-16,Portugal,2025
+1903,Sport Lisboa e Benfica,209178,Sidny Lopes Cabral,Defence,2002-09-18,Cape Verde Islands,2025
+1903,Sport Lisboa e Benfica,262709,João Fonseca,Defence,2006-08-31,Portugal,2025
+1903,Sport Lisboa e Benfica,262714,Joshua Wynder,Defence,2005-05-02,USA,2025
+1903,Sport Lisboa e Benfica,262856,Gonçalo Oliveira,Defence,2006-07-04,Portugal,2025
+1903,Sport Lisboa e Benfica,273524,Kevin Pinto,Defence,2006-09-23,Portugal,2025
+1903,Sport Lisboa e Benfica,282871,Daniel Banjaqui,Defence,2008-03-24,Portugal,2025
+1903,Sport Lisboa e Benfica,289781,José Neto,Defence,2008-04-19,Portugal,2025
+1903,Sport Lisboa e Benfica,8128,Dodi Lukebakio,Midfield,1997-09-24,Belgium,2025
+1903,Sport Lisboa e Benfica,38088,Fredrik Aursnes,Midfield,1995-12-10,Norway,2025
+1903,Sport Lisboa e Benfica,151558,Heorhii Sudakov,Midfield,2002-09-01,Ukraine,2025
+1903,Sport Lisboa e Benfica,170657,Richard Rios,Midfield,2000-06-02,Colombia,2025
+1903,Sport Lisboa e Benfica,183643,Franjo Ivanovic,Midfield,2003-10-01,Austria,2025
+1903,Sport Lisboa e Benfica,246194,Diogo Prioste,Midfield,2004-03-26,Portugal,2025
+1903,Sport Lisboa e Benfica,262645,João Veloso,Midfield,2005-06-26,Portugal,2025
+1903,Sport Lisboa e Benfica,275555,Tiago Freitas,Midfield,2006-08-17,Portugal,2025
+1903,Sport Lisboa e Benfica,282868,Miguel Figueiredo,Midfield,2008-08-02,Portugal,2025
+1903,Sport Lisboa e Benfica,16748,Rafa Silva,Offence,1993-05-17,Portugal,2025
+1903,Sport Lisboa e Benfica,67299,Vangelis Pavlidis,Offence,1998-11-21,Greece,2025
+1903,Sport Lisboa e Benfica,157796,Andreas Schjelderup,Offence,2004-06-01,Norway,2025
+1903,Sport Lisboa e Benfica,251296,João Rêgo,Offence,2005-06-20,Portugal,2025
+1903,Sport Lisboa e Benfica,263708,Rodrigo Rêgo,Offence,2005-01-03,Portugal,2025
+1903,Sport Lisboa e Benfica,282872,Gonçalo Moreira,Offence,2006-01-03,Portugal,2025
+1903,Sport Lisboa e Benfica,291341,Anísio Cabral,Offence,2008-02-15,Portugal,2025
+1903,Sport Lisboa e Benfica,182123,Gianluca Prestianni,Right Winger,2006-01-31,Argentina,2025
+1903,Sport Lisboa e Benfica,177322,Henrique Araujo,Centre-Forward,2002-01-19,Portugal,2025
+1903,Sport Lisboa e Benfica,175753,Samuel Dahl,Left-Back,2003-03-04,Sweden,2025
+1903,Sport Lisboa e Benfica,158894,Enzo Barrenechea,Defensive Midfield,2001-05-22,Argentina,2025
+1903,Sport Lisboa e Benfica,82403,Leandro Barreiro Martins,Central Midfield,2000-01-03,Luxembourg,2025
+1903,Sport Lisboa e Benfica,70583,Alexander Bah,Right-Back,1997-12-09,Denmark,2025
+1903,Sport Lisboa e Benfica,9553,Bruma,Left Winger,1994-10-24,Guinea-Bissau,2025
+1903,Sport Lisboa e Benfica,194008,Manu Silva,Defensive Midfield,2001-06-12,Portugal,2025
+1903,Sport Lisboa e Benfica,185610,Antonio Silva,Centre-Back,2003-10-31,Portugal,2025
+5529,CD Nacional,1232,Lucas França,Goalkeeper,1996-01-19,Brazil,2025
+5529,CD Nacional,178927,Kaique,Goalkeeper,2003-04-16,Brazil,2025
+5529,CD Nacional,229282,Cesar Augusto,Goalkeeper,2003-08-23,Brazil,2025
+5529,CD Nacional,249175,Kevyn,Goalkeeper,2005-07-01,Brazil,2025
+5529,CD Nacional,1437,Léo Santos,Defence,1998-12-09,Brazil,2025
+5529,CD Nacional,37727,Ivanildo Fernandes,Defence,1996-03-26,Portugal,2025
+5529,CD Nacional,169570,Zé Vitor,Defence,2001-02-09,Brazil,2025
+5529,CD Nacional,181512,Ulisses,Defence,1999-09-28,Brazil,2025
+5529,CD Nacional,183093,Alan Nunez,Defence,2004-10-01,Paraguay,2025
+5529,CD Nacional,231219,Francisco Gonçalves,Defence,2004-03-05,Portugal,2025
+5529,CD Nacional,243604,José Gomes,Defence,1996-07-20,Portugal,2025
+5529,CD Nacional,37447,João Aurélio,Midfield,1988-08-17,Portugal,2025
+5529,CD Nacional,45304,André Sousa,Midfield,1990-07-09,Portugal,2025
+5529,CD Nacional,147456,Miguel Baeza,Midfield,2000-03-27,Spain,2025
+5529,CD Nacional,169258,Paulinho Bóia,Midfield,1998-06-26,Brazil,2025
+5529,CD Nacional,179837,Matheus Dias,Midfield,2002-05-09,Brazil,2025
+5529,CD Nacional,181585,Daniel Jr.,Midfield,2002-05-09,Brazil,2025
+5529,CD Nacional,242472,Martim Watts,Midfield,2005-07-14,Portugal,2025
+5529,CD Nacional,243620,Jota Garcês,Midfield,1993-03-07,Portugal,2025
+5529,CD Nacional,270035,Chiheb Labidi,Midfield,2001-06-01,Tunisia,2025
+5529,CD Nacional,280035,Deivison,Midfield,2006-05-04,Brazil,2025
+5529,CD Nacional,1362,Liziero,Offence,1998-02-07,Brazil,2025
+5529,CD Nacional,11541,Lucas João,Offence,1993-09-04,Portugal,2025
+5529,CD Nacional,37194,Witi,Offence,1996-08-26,Mozambique,2025
+5529,CD Nacional,169080,Gabriel Veron,Offence,2002-09-03,Brazil,2025
+5529,CD Nacional,188085,Chuchu,Offence,1998-05-04,Venezuela,2025
+5529,CD Nacional,218644,Pablo Ruan,Offence,2003-02-01,Brazil,2025
+5529,CD Nacional,188089,Joel Silva,Central Midfield,2003-02-11,Portugal,2025
+5529,CD Nacional,43565,Filipe Soares,Attacking Midfield,1999-05-20,Portugal,2025
+5529,CD Nacional,809,Lenny Vallier,Left-Back,1999-04-24,France,2025
+5530,CD Santa Clara,1528,Gabriel Batista,Goalkeeper,1998-06-03,Brazil,2025
+5530,CD Santa Clara,151951,Cristian,Goalkeeper,2002-02-25,Brazil,2025
+5530,CD Santa Clara,181527,Neneca,Goalkeeper,2003-08-27,Brazil,2025
+5530,CD Santa Clara,245889,João Afonso,Goalkeeper,2007-04-30,Portugal,2025
+5530,CD Santa Clara,11524,Frederico Venâncio,Defence,1993-02-04,Portugal,2025
+5530,CD Santa Clara,32569,Pedro Pacheco,Defence,1997-01-27,Portugal,2025
+5530,CD Santa Clara,165583,Paulo Victor,Defence,2001-04-13,Brazil,2025
+5530,CD Santa Clara,169655,Guilherme Romão,Defence,1997-10-07,Brazil,2025
+5530,CD Santa Clara,178743,Diogo Calila,Defence,1998-10-10,Portugal,2025
+5530,CD Santa Clara,181619,Matheus Nunes,Defence,2001-03-01,Brazil,2025
+5530,CD Santa Clara,243594,Sidney Lima,Defence,1997-01-17,Brazil,2025
+5530,CD Santa Clara,264159,Evertow,Defence,2007-02-01,Brazil,2025
+5530,CD Santa Clara,278473,Italo Cabelinho,Defence,2004-02-27,Brazil,2025
+5530,CD Santa Clara,278476,Henrique Silva,Defence,2005-10-17,Brazil,2025
+5530,CD Santa Clara,282356,Rodrigo Mendes,Defence,2005-04-22,Portugal,2025
+5530,CD Santa Clara,290427,Luiz Otavio,Defence,2007-01-23,Brazil,2025
+5530,CD Santa Clara,290871,José Franco,Defence,2007-03-21,Portugal,2025
+5530,CD Santa Clara,37393,Serginho,Midfield,1999-12-01,Portugal,2025
+5530,CD Santa Clara,80878,Pedro Ferreira,Midfield,1998-01-05,Portugal,2025
+5530,CD Santa Clara,115128,Darlan Mendes,Midfield,1998-04-16,Brazil,2025
+5530,CD Santa Clara,176614,Isaac,Midfield,2004-03-21,Brazil,2025
+5530,CD Santa Clara,179772,Andrey,Midfield,2002-02-06,Brazil,2025
+5530,CD Santa Clara,185110,Klismahn,Midfield,1999-11-23,Brazil,2025
+5530,CD Santa Clara,193668,Vitinho,Midfield,2003-03-25,Brazil,2025
+5530,CD Santa Clara,278474,José Tavares,Midfield,2003-06-02,Cape Verde Islands,2025
+5530,CD Santa Clara,289588,Melvin Costa,Midfield,2004-03-31,Portugal,2025
+5530,CD Santa Clara,289589,Tiago Queiroz,Midfield,2005-11-01,Portugal,2025
+5530,CD Santa Clara,118015,Vinícius,Offence,1999-05-07,Brazil,2025
+5530,CD Santa Clara,124982,Lucas Soares,Offence,1998-05-04,Brazil,2025
+5530,CD Santa Clara,129463,Welinton,Offence,1999-06-30,Brazil,2025
+5530,CD Santa Clara,168766,Gabriel Silva,Offence,2002-03-22,Brazil,2025
+5530,CD Santa Clara,168871,Elias Manoel,Offence,2001-11-30,Brazil,2025
+5530,CD Santa Clara,181456,Brenner,Offence,2002-01-02,Brazil,2025
+5530,CD Santa Clara,227024,Luis Fernando,Offence,2005-04-12,Brazil,2025
+5530,CD Santa Clara,261163,João Costa,Offence,2000-03-07,Portugal,2025
+5530,CD Santa Clara,274919,Vital Maia,Offence,2007-02-17,Portugal,2025
+5530,CD Santa Clara,276960,Adriel,Offence,2005-12-06,Brazil,2025
+5530,CD Santa Clara,287899,Tiago Duarte,Offence,2004-05-01,Portugal,2025
+5530,CD Santa Clara,15919,Gonçalo Paciência,Centre-Forward,1994-08-01,Portugal,2025
+5531,FC Famalicão,37556,Ivan Zlobin,Goalkeeper,1997-03-07,Russia,2025
+5531,FC Famalicão,176011,Lazar Carevic,Goalkeeper,1999-03-16,Montenegro,2025
+5531,FC Famalicão,264463,Gabriel Cabral,Goalkeeper,2003-04-19,Brazil,2025
+5531,FC Famalicão,1785,Gil Dias,Defence,1996-09-28,Portugal,2025
+5531,FC Famalicão,11587,Rafa Soares,Defence,1995-05-09,Portugal,2025
+5531,FC Famalicão,112965,Leonardo Realpe,Defence,2001-02-26,Ecuador,2025
+5531,FC Famalicão,126147,Rodrigo Pinheiro,Defence,2002-08-28,Portugal,2025
+5531,FC Famalicão,169260,Gustavo Garcia,Defence,2002-01-04,Brazil,2025
+5531,FC Famalicão,213107,Pedro,Defence,2004-11-16,Angola,2025
+5531,FC Famalicão,217397,Vojin Serafimović,Defence,2005-10-14,Serbia,2025
+5531,FC Famalicão,221571,Ibrahima Ba,Defence,2003-09-03,Senegal,2025
+5531,FC Famalicão,276284,Renan,Defence,2005-03-13,Brazil,2025
+5531,FC Famalicão,286283,Matheus Mattara,Defence,2006-09-01,Brazil,2025
+5531,FC Famalicão,7533,Tommie van de Looi,Midfield,1999-07-02,Netherlands,2025
+5531,FC Famalicão,182916,Otar Mamageishvili,Midfield,2003-01-15,Georgia,2025
+5531,FC Famalicão,207131,Marcos Peña,Midfield,2005-01-22,Spain,2025
+5531,FC Famalicão,213102,Rodrigo Ribeiro,Midfield,2006-05-26,Portugal,2025
+5531,FC Famalicão,215432,Mathias De Amorin,Midfield,2004-12-10,France,2025
+5531,FC Famalicão,272442,Gonzalo Pastor,Midfield,2006-03-20,Spain,2025
+5531,FC Famalicão,287935,Lamine Beye,Midfield,2007-05-17,Senegal,2025
+5531,FC Famalicão,45511,Rochinha,Offence,1995-05-03,Portugal,2025
+5531,FC Famalicão,206657,Romeo Beney,Offence,2005-01-19,Switzerland,2025
+5531,FC Famalicão,262588,Pedro Santos,Offence,2003-02-10,Portugal,2025
+5531,FC Famalicão,280680,Umar Abubakar,Offence,2006-02-15,Nigeria,2025
+5531,FC Famalicão,292393,Rudi Almeida,Offence,2005-03-19,Portugal,2025
+5531,FC Famalicão,191017,Antoine Joujou,Left Winger,2003-03-12,France,2025
+5531,FC Famalicão,187280,Gustavo Sa,Attacking Midfield,2004-11-11,Portugal,2025
+5531,FC Famalicão,169412,Marcos Vinicios,Left Winger,2001-02-23,Brazil,2025
+5531,FC Famalicão,154741,Óscar Aranda,Left Winger,2002-04-29,Spain,2025
+5531,FC Famalicão,147884,Simon Elisor,Centre-Forward,1999-07-22,France,2025
+5531,FC Famalicão,97367,Justin de Haas,Centre-Back,2000-02-01,Netherlands,2025
+5533,Gil Vicente FC,128746,Lucão,Goalkeeper,2001-02-26,Brazil,2025
+5533,Gil Vicente FC,171325,Daniel Figueira,Goalkeeper,1998-07-20,Portugal,2025
+5533,Gil Vicente FC,184454,Andre Picornell,Goalkeeper,2004-04-03,Sweden,2025
+5533,Gil Vicente FC,37432,Ghislain Konan,Defence,1995-12-27,Ivory Coast,2025
+5533,Gil Vicente FC,160445,Marvin Elimbi,Defence,2003-02-20,France,2025
+5533,Gil Vicente FC,204139,Jonathan Mutombo Mawesi,Defence,2002-08-27,France,2025
+5533,Gil Vicente FC,98160,Sergio Bermejo,Midfield,1997-08-17,Spain,2025
+5533,Gil Vicente FC,157367,Luís Esteves,Midfield,1998-04-09,Portugal,2025
+5533,Gil Vicente FC,205576,Martín Fernández Benítez,Midfield,2003-06-23,Uruguay,2025
+5533,Gil Vicente FC,218939,Bassco Soyer,Midfield,2006-10-17,Peru,2025
+5533,Gil Vicente FC,260041,Agustin Moreira,Midfield,2001-05-28,Uruguay,2025
+5533,Gil Vicente FC,262713,Gil Martins,Midfield,2006-05-12,Portugal,2025
+5533,Gil Vicente FC,263792,Gui Beleza,Midfield,2006-12-09,Portugal,2025
+5533,Gil Vicente FC,267932,Mohamed Bamba,Midfield,2004-10-08,Ivory Coast,2025
+5533,Gil Vicente FC,275268,Diogo Costa,Midfield,2003-05-04,Portugal,2025
+5533,Gil Vicente FC,278446,Rodrigo Rodrigues,Midfield,2007-12-06,Portugal,2025
+5533,Gil Vicente FC,284048,Gonçalo Maia,Midfield,2005-11-30,Portugal,2025
+5533,Gil Vicente FC,32309,Héctor Hernández,Offence,1995-09-14,Spain,2025
+5533,Gil Vicente FC,143820,Carlos Eduardo,Offence,2002-08-10,Brazil,2025
+5533,Gil Vicente FC,144710,Joelson Fernandes,Offence,2003-02-28,Guinea-Bissau,2025
+5533,Gil Vicente FC,252836,Gustavo Varela,Offence,2005-01-30,Portugal,2025
+5533,Gil Vicente FC,180125,Santi García,Attacking Midfield,2001-08-29,Spain,2025
+5533,Gil Vicente FC,177301,Tidjany Touré,Left Winger,2002-07-15,France,2025
+5533,Gil Vicente FC,153579,Facundo Cáseres,Central Midfield,2001-05-28,Argentina,2025
+5533,Gil Vicente FC,146361,Weverson,Left-Back,2000-07-05,Brazil,2025
+5533,Gil Vicente FC,141483,José Carlos,Right-Back,1998-07-31,Portugal,2025
+5533,Gil Vicente FC,37160,Murilo,Right Winger,1994-10-31,Brazil,2025
+5533,Gil Vicente FC,9125,Jonathan Buatu,Centre-Back,1993-09-27,Belgium,2025
+5533,Gil Vicente FC,245428,Arthur Tchaptchet,Centre-Back,2006-05-10,France,2025
+5533,Gil Vicente FC,213131,Heverton Santos,Right-Back,2001-02-01,Brazil,2025
+5533,Gil Vicente FC,211848,Antonio Espigares,Centre-Back,2004-09-05,Spain,2025
+5533,Gil Vicente FC,188094,Zé Carlos,Right-Back,2001-10-30,Portugal,2025
+5543,Vitória SC,45324,Charles Silva,Goalkeeper,1994-02-04,Brazil,2025
+5543,Vitória SC,203374,Lucas Furtado,Goalkeeper,2005-03-09,Brazil,2025
+5543,Vitória SC,204127,Gui,Goalkeeper,2006-05-13,Portugal,2025
+5543,Vitória SC,246248,Juan Castillo,Goalkeeper,2003-01-13,Colombia,2025
+5543,Vitória SC,28976,Orest Lebedenko,Defence,1998-09-23,Ukraine,2025
+5543,Vitória SC,177044,Joao Mendes,Defence,2000-04-13,Portugal,2025
+5543,Vitória SC,180163,Óscar Rivas,Defence,2000-03-27,Spain,2025
+5543,Vitória SC,243705,Ricardo Rocha,Defence,2003-09-07,Portugal,2025
+5543,Vitória SC,262361,Diogo Lobão,Defence,2006-01-20,Portugal,2025
+5543,Vitória SC,274548,Thiago Balieiro,Defence,2003-02-23,Brazil,2025
+5543,Vitória SC,290177,André Oliveira,Defence,2006-02-15,Portugal,2025
+5543,Vitória SC,293863,Francisco Dias,Defence,2002-10-23,Portugal,2025
+5543,Vitória SC,45514,Samu,Midfield,1996-04-21,Portugal,2025
+5543,Vitória SC,145346,Telmo Arcanjo,Midfield,2001-06-21,Cape Verde Islands,2025
+5543,Vitória SC,280042,Matija Mitrović,Midfield,2004-12-12,Serbia,2025
+5543,Vitória SC,292315,Zeega,Midfield,2008-11-05,Portugal,2025
+5543,Vitória SC,295512,Hugo Nunes,Midfield,2002-02-15,Portugal,2025
+5543,Vitória SC,149724,Alioune Ndoye,Offence,2001-10-05,Senegal,2025
+5543,Vitória SC,170076,Fabio Blanco,Offence,2004-02-18,Spain,2025
+5543,Vitória SC,243569,Gustavo Silva,Offence,1999-06-01,Brazil,2025
+5543,Vitória SC,262363,Miguel Nogueira,Offence,2005-02-27,Portugal,2025
+5543,Vitória SC,280039,Oumar Camara,Offence,2007-05-11,France,2025
+5543,Vitória SC,281959,Noah Saviolo,Offence,2004-03-07,Belgium,2025
+5543,Vitória SC,284497,Ejike Opara,Offence,2005-07-05,Nigeria,2025
+5543,Vitória SC,289174,Guilherme Paula,Offence,2004-06-12,Portugal,2025
+5543,Vitória SC,204259,Anthony Strata,Right-Back,2004-09-07,France,2025
+5543,Vitória SC,191259,Beni,Central Midfield,2002-05-21,Angola,2025
+5543,Vitória SC,191013,Goncalo Nogueira,Central Midfield,2003-12-28,Portugal,2025
+5543,Vitória SC,185139,Miguel Nóbrega,Centre-Back,2000-04-17,Portugal,2025
+5543,Vitória SC,171351,Miguel Magalhães,Right-Back,2002-11-16,Portugal,2025
+5543,Vitória SC,28243,Rodrigo Abascal,Centre-Back,1994-01-14,Uruguay,2025
+5543,Vitória SC,4003,Nélson Oliveira,Centre-Forward,1991-08-08,Portugal,2025
+5613,Sporting Clube de Braga,37817,Tiago Sá,Goalkeeper,1995-01-11,Portugal,2025
+5613,Sporting Clube de Braga,146753,Lukáš Horníček,Goalkeeper,2002-07-13,Czech Republic,2025
+5613,Sporting Clube de Braga,172575,Alaa Bellaarouch,Goalkeeper,2002-02-01,Morocco,2025
+5613,Sporting Clube de Braga,275026,João Carvalho,Goalkeeper,2004-04-09,Portugal,2025
+5613,Sporting Clube de Braga,294815,Romário Cunha,Goalkeeper,2008-03-21,Portugal,2025
+5613,Sporting Clube de Braga,146987,Bright Arrey-Mbi,Defence,2003-03-26,Germany,2025
+5613,Sporting Clube de Braga,166538,Gustaf Lagerbielke,Defence,2000-04-10,Sweden,2025
+5613,Sporting Clube de Braga,180150,Victor Gómez,Defence,2000-04-01,Spain,2025
+5613,Sporting Clube de Braga,180320,Adrian Barišić,Defence,2001-07-19,Bosnia-Herzegovina,2025
+5613,Sporting Clube de Braga,246367,Nuno Matos,Defence,2004-10-04,Portugal,2025
+5613,Sporting Clube de Braga,265148,Jonatás Noro,Defence,2005-07-09,Portugal,2025
+5613,Sporting Clube de Braga,281002,Yanis Da Rocha,Defence,2004-05-10,France,2025
+5613,Sporting Clube de Braga,287981,Fodé Pascoal,Defence,2004-12-26,Guinea-Bissau,2025
+5613,Sporting Clube de Braga,294814,Afonso Sousa,Defence,2007-04-17,Portugal,2025
+5613,Sporting Clube de Braga,404,Florian Grillitsch,Midfield,1995-08-07,Austria,2025
+5613,Sporting Clube de Braga,121007,Rodrigo Zalazar,Midfield,1999-08-12,Uruguay,2025
+5613,Sporting Clube de Braga,172912,Demir Tiknaz,Midfield,2004-08-17,Turkey,2025
+5613,Sporting Clube de Braga,178756,Jean-Baptiste Gorby,Midfield,2002-07-25,France,2025
+5613,Sporting Clube de Braga,180185,Gabriel Martínez,Midfield,2003-01-22,Spain,2025
+5613,Sporting Clube de Braga,186516,Mario Dorgeles,Midfield,2004-08-07,Ivory Coast,2025
+5613,Sporting Clube de Braga,273888,Diego Rodrigues,Midfield,2005-05-24,Portugal,2025
+5613,Sporting Clube de Braga,275993,Vasconcelos,Midfield,2005-02-26,Portugal,2025
+5613,Sporting Clube de Braga,291820,António Gil,Midfield,2008-01-08,Portugal,2025
+5613,Sporting Clube de Braga,294552,Luisinho,Midfield,2006-08-16,Portugal,2025
+5613,Sporting Clube de Braga,102579,Fran Navarro,Offence,1998-02-03,Spain,2025
+5613,Sporting Clube de Braga,137515,Amine El Ouazzani,Offence,2001-07-15,France,2025
+5613,Sporting Clube de Braga,206816,Rodrigo Mordomo,Offence,2004-12-08,Portugal,2025
+5613,Sporting Clube de Braga,247293,Samy Merheg,Offence,2006-12-06,Colombia,2025
+5613,Sporting Clube de Braga,275538,Sandro Vidigal,Offence,2007-07-28,Portugal,2025
+5613,Sporting Clube de Braga,286765,João Aragão,Offence,2008-03-24,Portugal,2025
+5613,Sporting Clube de Braga,144579,Pau Victor Delgado,Centre-Forward,2001-11-26,Spain,2025
+5613,Sporting Clube de Braga,45401,Ricardo Horta,Left Winger,1994-09-15,Portugal,2025
+5613,Sporting Clube de Braga,33339,Paulo Oliveira,Centre-Back,1992-01-08,Portugal,2025
+5613,Sporting Clube de Braga,13911,Vitor Carvalho,Defensive Midfield,1997-05-27,Brazil,2025
+5613,Sporting Clube de Braga,3249,João Moutinho,Central Midfield,1986-09-08,Portugal,2025
+5613,Sporting Clube de Braga,469,Sikou Niakaté,Centre-Back,1999-07-10,France,2025
+5613,Sporting Clube de Braga,210468,Moscardo,Defensive Midfield,2005-09-28,Brazil,2025
+5613,Sporting Clube de Braga,185146,Leonardo Lelo,Left-Back,2000-03-30,Portugal,2025
+6618,Casa Pia AC,33894,Patrick Sequeira,Goalkeeper,1999-03-01,Costa Rica,2025
+6618,Casa Pia AC,77869,Ricardo Batista,Goalkeeper,1986-11-19,Portugal,2025
+6618,Casa Pia AC,185131,Rodrigo Moura,Goalkeeper,1996-01-25,Brazil,2025
+6618,Casa Pia AC,246140,Ivan Mandić,Goalkeeper,2003-03-10,Croatia,2025
+6618,Casa Pia AC,37728,Abdu Conté,Defence,1998-03-24,Guinea-Bissau,2025
+6618,Casa Pia AC,99358,Kaique Rocha,Defence,2001-02-28,Brazil,2025
+6618,Casa Pia AC,138218,David Sousa,Defence,2001-07-04,Brazil,2025
+6618,Casa Pia AC,171386,Joao Goulart,Defence,2000-01-27,Portugal,2025
+6618,Casa Pia AC,263516,Pedro Rosas,Defence,2000-11-28,Portugal,2025
+6618,Casa Pia AC,274982,Kaly,Defence,2003-11-27,Angola,2025
+6618,Casa Pia AC,45116,Jérémy Livolant,Midfield,1998-01-09,France,2025
+6618,Casa Pia AC,136091,Kelian Nsona Wa Saka,Midfield,2002-05-11,France,2025
+6618,Casa Pia AC,165916,Xander Severina,Midfield,2001-04-12,Netherlands,2025
+6618,Casa Pia AC,294326,Abdu Dafe,Midfield,2008-06-10,Portugal,2025
+6618,Casa Pia AC,144580,Claudio Mendes,Offence,2000-12-08,Spain,2025
+6618,Casa Pia AC,175919,Dailon Rocha Livramento,Offence,2001-05-04,Cape Verde Islands,2025
+6618,Casa Pia AC,218361,Korede Osundina,Offence,2004-02-13,USA,2025
+6618,Casa Pia AC,270882,Kevin Prieto,Offence,2003-06-27,Uruguay,2025
+6618,Casa Pia AC,204134,Kiki Silva,Right Winger,1998-02-14,Portugal,2025
+6618,Casa Pia AC,190876,Joao Marques,Left Winger,2002-02-13,Portugal,2025
+6618,Casa Pia AC,171553,Iyad Mohamed,Defensive Midfield,2001-10-29,Comoros,2025
+6618,Casa Pia AC,150925,Tiago Fonseca Morais,Left Winger,2003-09-03,Portugal,2025
+6618,Casa Pia AC,126877,Larra,Right-Back,1997-12-17,Spain,2025
+6618,Casa Pia AC,126156,Rafael Brito,Defensive Midfield,2002-01-19,Portugal,2025
+6618,Casa Pia AC,45303,Geraldes,Right-Back,1991-05-02,Portugal,2025
+6618,Casa Pia AC,39959,Lawrence Ofori,Central Midfield,1998-06-28,Ghana,2025
+6618,Casa Pia AC,14003,Cassiano,Centre-Forward,1989-06-16,Brazil,2025
+6618,Casa Pia AC,11702,Sebastián Pérez,Defensive Midfield,1993-03-29,Colombia,2025
+6618,Casa Pia AC,3245,José Fonte,Centre-Back,1983-12-22,Portugal,2025
+7822,FC Alverca,146351,Matheus Mendes,Goalkeeper,1999-03-10,Brazil,2025
+7822,FC Alverca,151205,André Paulo,Goalkeeper,1996-12-18,Portugal,2025
+7822,FC Alverca,154616,Mateus Oliveira,Goalkeeper,2002-05-02,Brazil,2025
+7822,FC Alverca,192010,Andre Gomes,Goalkeeper,2004-10-20,Portugal,2025
+7822,FC Alverca,246741,Francisco Chissumba,Defence,2005-05-29,Portugal,2025
+7822,FC Alverca,249393,Diogo Spencer,Defence,2004-04-17,Portugal,2025
+7822,FC Alverca,253528,Julian Martinez,Defence,2003-12-01,Honduras,2025
+7822,FC Alverca,264461,Isaac James,Defence,2004-08-28,Nigeria,2025
+7822,FC Alverca,280267,Ikker Julian,Defence,2005-07-07,Belgium,2025
+7822,FC Alverca,18602,Rhaldney,Midfield,1998-11-20,Brazil,2025
+7822,FC Alverca,30052,Lincoln,Midfield,1998-11-07,Brazil,2025
+7822,FC Alverca,110897,Sabit Abdulai,Midfield,1999-05-11,Ghana,2025
+7822,FC Alverca,169646,Lucas Figueiredo,Midfield,2001-08-14,Brazil,2025
+7822,FC Alverca,178839,Kaiky Marques,Midfield,2002-05-08,Brazil,2025
+7822,FC Alverca,263600,Vasco Moreira,Midfield,2001-05-07,Portugal,2025
+7822,FC Alverca,280296,Davy Gui,Midfield,2006-06-15,Ivory Coast,2025
+7822,FC Alverca,281159,Kauan,Midfield,2005-04-26,Brazil,2025
+7822,FC Alverca,281452,Abderrahmane Soumare,Midfield,2006-11-11,Mauritania,2025
+7822,FC Alverca,290806,Zakaria Kassary,Midfield,2006-01-25,Morocco,2025
+7822,FC Alverca,37269,Sandro Lima,Offence,1990-10-28,Brazil,2025
+7822,FC Alverca,172231,Marko Milovanovic,Offence,2003-08-04,Serbia,2025
+7822,FC Alverca,179607,Mathis Clairicia,Offence,2002-08-30,France,2025
+7822,FC Alverca,203421,Nabil,Offence,2001-02-01,Spain,2025
+7822,FC Alverca,248958,Fabrício Garcia,Offence,2001-05-04,Cape Verde Islands,2025
+7822,FC Alverca,267815,Felipe Lima,Offence,2006-04-17,Brazil,2025
+7822,FC Alverca,280037,Cédric Nuozzi,Offence,2006-01-30,Belgium,2025
+7822,FC Alverca,176854,Tomas Mendes,Central Midfield,2004-11-21,Spain,2025
+7822,FC Alverca,137985,Chiquinho,Left Winger,2000-02-05,Portugal,2025
+7822,FC Alverca,103003,Stéphane Diarra,Right Winger,1998-12-09,Ivory Coast,2025
+7822,FC Alverca,33620,Sergi Gómez,Centre-Back,1992-03-28,Spain,2025
+7822,FC Alverca,214507,Bastien Meupiyou Menadjou,Centre-Back,2006-03-19,France,2025
+7822,FC Alverca,212863,Steven Baseya,Centre-Back,2005-01-14,France,2025
+9136,CF Estrela da Amadora,45159,Renan Ribeiro,Goalkeeper,1990-03-23,Brazil,2025
+9136,CF Estrela da Amadora,202181,Diogo Pinto,Goalkeeper,2004-06-18,Portugal,2025
+9136,CF Estrela da Amadora,202975,Dudu,Goalkeeper,1999-02-10,Germany,2025
+9136,CF Estrela da Amadora,231213,David Grilo,Goalkeeper,1996-08-13,Portugal,2025
+9136,CF Estrela da Amadora,80875,Jefferson Encada,Defence,1998-04-17,Guinea-Bissau,2025
+9136,CF Estrela da Amadora,122432,Kevin Höög-Jansson,Defence,2000-09-29,Belgium,2025
+9136,CF Estrela da Amadora,125171,Bruno Langa,Defence,1997-10-31,Mozambique,2025
+9136,CF Estrela da Amadora,136782,Luan Patrick,Defence,2002-01-20,Brazil,2025
+9136,CF Estrela da Amadora,143609,Bernardo,Defence,1999-03-22,Brazil,2025
+9136,CF Estrela da Amadora,150419,Yahya Kalley,Defence,2001-03-20,Sweden,2025
+9136,CF Estrela da Amadora,152119,Issiar Dramé,Defence,1999-02-16,France,2025
+9136,CF Estrela da Amadora,187322,Stefan Lekovic,Defence,2004-01-09,Serbia,2025
+9136,CF Estrela da Amadora,209792,Tom Moustier,Defence,2002-05-02,France,2025
+9136,CF Estrela da Amadora,263711,João Vale,Defence,2005-10-08,Portugal,2025
+9136,CF Estrela da Amadora,274113,Georgiy Tunguliyadi,Defence,2004-10-03,Russia,2025
+9136,CF Estrela da Amadora,277674,Otávio,Defence,2005-11-25,Brazil,2025
+9136,CF Estrela da Amadora,280040,Gabriel Rodrigues,Defence,2003-03-01,Portugal,2025
+9136,CF Estrela da Amadora,285704,Caica,Defence,2005-07-31,Angola,2025
+9136,CF Estrela da Amadora,81357,Ianis Stoica,Midfield,2002-12-08,Romania,2025
+9136,CF Estrela da Amadora,151113,Abraham Marcus,Midfield,2000-01-02,Nigeria,2025
+9136,CF Estrela da Amadora,154435,Paulo Moreira,Midfield,2000-02-17,Portugal,2025
+9136,CF Estrela da Amadora,261052,Chilohem Onuoha,Midfield,2005-05-07,Germany,2025
+9136,CF Estrela da Amadora,274552,Alexandre Sola,Midfield,2003-12-14,Angola,2025
+9136,CF Estrela da Amadora,277809,Robinho,Midfield,2002-08-07,Brazil,2025
+9136,CF Estrela da Amadora,280840,Loureiro,Midfield,2005-05-05,Brazil,2025
+9136,CF Estrela da Amadora,284756,Pape Fuhrer,Midfield,2005-12-23,Senegal,2025
+9136,CF Estrela da Amadora,285703,Emerson Vanga,Midfield,2006-02-11,France,2025
+9136,CF Estrela da Amadora,291311,Eddy Doué,Midfield,2005-12-11,Ivory Coast,2025
+9136,CF Estrela da Amadora,37116,Jovane Cabral,Offence,1998-06-14,Cape Verde Islands,2025
+9136,CF Estrela da Amadora,182080,Leandro Antonetti,Offence,2003-01-13,Spain,2025
+9136,CF Estrela da Amadora,216107,Mathew Gbomadu,Offence,2004-10-16,Nigeria,2025
+9136,CF Estrela da Amadora,256245,Alisson Jesus,Offence,2005-04-11,Brazil,2025
+9136,CF Estrela da Amadora,262611,Jorge Meireles,Offence,2004-04-04,Portugal,2025
+9136,CF Estrela da Amadora,292048,Henrique Poniewas,Offence,2006-09-25,Brazil,2025
+9136,CF Estrela da Amadora,202693,Max Scholze,Right-Back,2005-04-30,Germany,2025
+9136,CF Estrela da Amadora,181927,Bilal Brahimi,Left Winger,2000-03-14,France,2025
+9136,CF Estrela da Amadora,80336,Sydney van Hooijdonk,Centre-Forward,2000-02-06,Netherlands,2025
+9136,CF Estrela da Amadora,45350,Rodrigo Pinho,Centre-Forward,1991-05-30,Germany,2025
+9136,CF Estrela da Amadora,45195,Ruben Lima,Left-Back,1989-10-03,Portugal,2025
+10340,AVS,45404,Pedro Trigueira,Goalkeeper,1988-01-04,Portugal,2025
+10340,AVS,168959,Adriel Ramos,Goalkeeper,2001-01-14,Brazil,2025
+10340,AVS,169628,Simão Bertelli,Goalkeeper,1993-07-02,Brazil,2025
+10340,AVS,33110,Rúben Semedo,Defence,1994-04-04,Portugal,2025
+10340,AVS,45278,Kiki,Defence,1994-12-10,Portugal,2025
+10340,AVS,61232,Mateus Pivô,Defence,1997-12-16,Brazil,2025
+10340,AVS,178441,Cristian Castro,Defence,2001-01-25,Colombia,2025
+10340,AVS,178824,Leonardo Rivas,Defence,2001-12-06,Paraguay,2025
+10340,AVS,194165,Aderlan,Defence,1989-04-09,Brazil,2025
+10340,AVS,243610,Paulo Vitor,Defence,2001-07-19,Brazil,2025
+10340,AVS,273739,Guillem Molina,Defence,2000-05-03,Spain,2025
+10340,AVS,294840,Afonso Silva,Defence,2008-06-19,Portugal,2025
+10340,AVS,99922,Ángel Algobia,Midfield,1999-06-23,Spain,2025
+10340,AVS,169554,Roni,Midfield,1999-04-15,Brazil,2025
+10340,AVS,192912,Pedro Lima,Midfield,2003-03-27,Brazil,2025
+10340,AVS,243619,Gustavo Mendonça,Midfield,2003-03-11,Portugal,2025
+10340,AVS,260034,Tiago Galletto,Midfield,,Spain,2025
+10340,AVS,2470,Nenê,Offence,1983-07-28,Brazil,2025
+10340,AVS,3912,Andre Green,Offence,1998-07-26,England,2025
+10340,AVS,45243,Tómané,Offence,1992-10-23,Portugal,2025
+10340,AVS,81797,Antoine Baroan,Offence,2000-06-24,France,2025
+10340,AVS,179222,Diego Duarte,Offence,2002-04-08,Paraguay,2025
+10340,AVS,242230,Edson Mucuana,Offence,2003-12-12,Mozambique,2025
+10340,AVS,280041,Guilherme Neiva,Offence,2001-03-15,Brazil,2025
+10340,AVS,203426,Babatunde Akinsola,Left Winger,2003-03-10,Nigeria,2025
+10340,AVS,182441,Oscar Perea,Left Winger,2005-09-27,Colombia,2025
+10340,AVS,43699,Ponck,Centre-Back,1995-01-13,Cape Verde Islands,2025
+496,Rio Ave FC,72783,Matheus Teixeira,Goalkeeper,1999-03-08,Brazil,2024
+496,Rio Ave FC,114150,Cezary Miszta,Goalkeeper,2001-10-30,Poland,2024
+496,Rio Ave FC,263610,Antzelo Sina,Goalkeeper,2004-01-07,Albania,2024
+496,Rio Ave FC,4266,Omar Richards,Defence,1998-02-15,England,2024
+496,Rio Ave FC,98870,Jonathan Panzo,Defence,2000-10-25,England,2024
+496,Rio Ave FC,193588,Joao Tome,Defence,2003-02-12,Portugal,2024
+496,Rio Ave FC,204151,Jorge Karseladze,Defence,2005-03-18,Portugal,2024
+496,Rio Ave FC,209594,Andreas Ndoj,Defence,2003-02-02,Greece,2024
+496,Rio Ave FC,246786,João Pedro,Defence,2003-03-14,Brazil,2024
+496,Rio Ave FC,250593,Francisco Petrasso,Defence,2002-02-28,Argentina,2024
+496,Rio Ave FC,273535,Konstantinos Kostoulas,Defence,2005-02-08,Greece,2024
+496,Rio Ave FC,275284,Hassan Abou El Maati,Defence,2005-05-16,Egypt,2024
+496,Rio Ave FC,45452,João Novais,Midfield,1993-07-10,Portugal,2024
+496,Rio Ave FC,172912,Demir Tiknaz,Midfield,2004-08-17,Turkey,2024
+496,Rio Ave FC,220603,Chukwudi Igbokwe,Midfield,2002-06-20,Nigeria,2024
+496,Rio Ave FC,264302,Theofanis Bakoulas,Midfield,2005-01-04,Greece,2024
+496,Rio Ave FC,278356,Dijar Ferati,Midfield,2008-09-24,Albania,2024
+496,Rio Ave FC,105208,Kiko Bondoso,Offence,1995-11-17,Portugal,2024
+496,Rio Ave FC,141542,Clayton,Offence,1999-01-11,Brazil,2024
+496,Rio Ave FC,211519,Tobias Medina,Offence,2004-03-03,Argentina,2024
+496,Rio Ave FC,244984,Karem Zoabi,Offence,2006-05-03,Israel,2024
+496,Rio Ave FC,255094,Saba Samushia,Offence,2006-11-07,Georgia,2024
+496,Rio Ave FC,262961,Junior Colina,Offence,2006-12-09,Venezuela,2024
+496,Rio Ave FC,273017,Valentim Sousa,Offence,2005-02-14,Portugal,2024
+496,Rio Ave FC,277829,Naziru Shuabiu,Offence,2004-02-10,Nigeria,2024
+496,Rio Ave FC,185179,Brandon Aguilera,Attacking Midfield,2003-06-28,Costa Rica,2024
+496,Rio Ave FC,185150,João Graça,Central Midfield,1995-06-18,Portugal,2024
+496,Rio Ave FC,178810,André Luiz,Centre-Forward,2002-02-23,Brazil,2024
+496,Rio Ave FC,166250,Helder Sá,Left-Back,2002-11-10,Portugal,2024
+496,Rio Ave FC,165143,Martim Neto,Central Midfield,2003-01-14,Portugal,2024
+496,Rio Ave FC,150925,Tiago Fonseca Morais,Left Winger,2003-09-03,Portugal,2024
+496,Rio Ave FC,149940,Nelson Abbey,Centre-Back,2003-08-28,England,2024
+496,Rio Ave FC,142162,Ole Pohlmann,Central Midfield,2001-04-05,Germany,2024
+496,Rio Ave FC,43696,Vitor Gomes,Defensive Midfield,1987-12-25,Portugal,2024
+496,Rio Ave FC,15990,Marious Vrousai,Right Winger,1998-07-02,Albania,2024
+498,Sporting Clube de Portugal,32014,Rui Silva,Goalkeeper,1994-02-07,Portugal,2024
+498,Sporting Clube de Portugal,97893,Franco Israel,Goalkeeper,2000-04-22,Uruguay,2024
+498,Sporting Clube de Portugal,178770,Diego Callai,Goalkeeper,2004-07-18,Brazil,2024
+498,Sporting Clube de Portugal,194860,Francisco Silva,Goalkeeper,2005-11-20,Portugal,2024
+498,Sporting Clube de Portugal,202181,Diogo Pinto,Goalkeeper,2004-06-18,Portugal,2024
+498,Sporting Clube de Portugal,28770,Maximiliano Araújo,Defence,2000-02-15,Uruguay,2024
+498,Sporting Clube de Portugal,145357,Gonçalo Inácio,Defence,2001-08-25,Portugal,2024
+498,Sporting Clube de Portugal,160926,Zeno Debast,Defence,2003-10-24,Belgium,2024
+498,Sporting Clube de Portugal,178768,Eduardo Quaresma,Defence,2002-03-02,Portugal,2024
+498,Sporting Clube de Portugal,191760,Ousmane Diomande,Defence,2003-12-04,Ivory Coast,2024
+498,Sporting Clube de Portugal,270550,Miguel Alves,Defence,2005-12-30,Portugal,2024
+498,Sporting Clube de Portugal,274401,Denilson Santos,Defence,2007-02-02,Portugal,2024
+498,Sporting Clube de Portugal,275631,José Silva,Defence,2005-08-20,Portugal,2024
+498,Sporting Clube de Portugal,277088,David Moreira,Defence,2004-04-18,Portugal,2024
+498,Sporting Clube de Portugal,169073,Gabriel Teixeira,Midfield,2001-04-01,Brazil,2024
+498,Sporting Clube de Portugal,270551,João Simões,Midfield,2007-01-06,Portugal,2024
+498,Sporting Clube de Portugal,272008,Henrique Arreiol,Midfield,2005-06-21,Portugal,2024
+498,Sporting Clube de Portugal,273036,Alexandre Brito,Midfield,2005-07-19,Portugal,2024
+498,Sporting Clube de Portugal,273613,Eduardo Felicíssimo,Midfield,2007-01-08,Portugal,2024
+498,Sporting Clube de Portugal,275465,Manuel Mendonça,Midfield,2005-03-24,Portugal,2024
+498,Sporting Clube de Portugal,276188,Kaua Wellhington Oliveira Pinto,Midfield,2003-12-22,Brazil,2024
+498,Sporting Clube de Portugal,8279,Viktor Gyökeres,Offence,1998-06-04,Sweden,2024
+498,Sporting Clube de Portugal,37332,Trincão,Offence,1999-12-29,Portugal,2024
+498,Sporting Clube de Portugal,204124,Mauro Couto,Offence,2005-11-15,Portugal,2024
+498,Sporting Clube de Portugal,206744,Conrad Harder,Offence,2005-04-07,Denmark,2024
+498,Sporting Clube de Portugal,229421,Geovany Quenda,Offence,2007-04-30,Guinea-Bissau,2024
+498,Sporting Clube de Portugal,247303,Rafael Nel,Offence,2005-04-03,Portugal,2024
+498,Sporting Clube de Portugal,275336,Lucas Anjos,Offence,2004-07-07,Portugal,2024
+498,Sporting Clube de Portugal,176840,Ivan Fresneda,Right-Back,2004-09-28,Spain,2024
+498,Sporting Clube de Portugal,128825,Geny Catamo,Right Winger,2001-01-26,Mozambique,2024
+498,Sporting Clube de Portugal,102336,Daniel Bragança,Central Midfield,1999-05-27,Portugal,2024
+498,Sporting Clube de Portugal,92050,Pedro Gonçalves,Attacking Midfield,1998-06-28,Portugal,2024
+498,Sporting Clube de Portugal,73998,Morten Hjulmand,Defensive Midfield,1999-06-25,Denmark,2024
+498,Sporting Clube de Portugal,49092,Hidemasa Morita,Central Midfield,1995-05-10,Japan,2024
+498,Sporting Clube de Portugal,45463,Nuno Santos,Left-Back,1995-02-13,Portugal,2024
+498,Sporting Clube de Portugal,45388,Ricardo Esgaio,Right-Back,1993-05-16,Portugal,2024
+498,Sporting Clube de Portugal,45210,Matheus Reis,Left-Back,1995-02-18,Brazil,2024
+498,Sporting Clube de Portugal,7465,Jerry St. Juste,Centre-Back,1996-10-19,Netherlands,2024
+498,Sporting Clube de Portugal,204136,Afonso Moreira,Left Winger,2005-03-19,Portugal,2024
+503,FC Porto,13887,Samuel Portugal,Goalkeeper,1994-03-29,Brazil,2024
+503,FC Porto,37362,Diogo Costa,Goalkeeper,1999-09-19,Portugal,2024
+503,FC Porto,45217,Cláudio Ramos,Goalkeeper,1991-11-16,Portugal,2024
+503,FC Porto,161171,André Lopes,Defence,2001-11-02,Portugal,2024
+503,FC Porto,227047,Martim Fernandes,Defence,2006-01-18,Portugal,2024
+503,FC Porto,37479,Stephen Eustáquio,Midfield,1996-12-21,Canada,2024
+503,FC Porto,39102,William da Silva,Midfield,2006-03-15,Brazil,2024
+503,FC Porto,178712,Vasco Sousa,Midfield,2003-04-03,Portugal,2024
+503,FC Porto,213331,Tomás Pérez,Midfield,2005-08-26,Argentina,2024
+503,FC Porto,243755,Domingos Andrade,Midfield,2003-05-07,Angola,2024
+503,FC Porto,261273,Rodrigo Mora,Midfield,2007-05-05,Portugal,2024
+503,FC Porto,262669,André Oliveira,Midfield,2005-10-01,Portugal,2024
+503,FC Porto,262715,João Teixeira,Midfield,2006-04-09,Portugal,2024
+503,FC Porto,4289,Daniel Namaso,Offence,2000-08-28,Cameroon,2024
+503,FC Porto,188466,Deniz Gul,Offence,2004-07-02,Turkey,2024
+503,FC Porto,265525,Bryan Caicedo,Offence,2006-08-14,Colombia,2024
+503,FC Porto,151363,Otavio Ataide,Centre-Back,2002-04-21,Brazil,2024
+503,FC Porto,126149,Gonçalo Borges,Right Winger,2001-03-29,Portugal,2024
+503,FC Porto,125160,Zaidu Sanusi,Left-Back,1997-06-13,Nigeria,2024
+503,FC Porto,112948,Fabio Vieira,Attacking Midfield,2000-05-30,Portugal,2024
+503,FC Porto,98611,Moura,Left-Back,1999-08-16,Portugal,2024
+503,FC Porto,82126,João Mário Lopes,Right-Back,2000-01-03,Portugal,2024
+503,FC Porto,52950,Zé Pedro Figueiredo,Centre-Back,1997-06-06,Portugal,2024
+503,FC Porto,45671,Nehuén Pérez,Centre-Back,2000-06-24,Argentina,2024
+503,FC Porto,37134,Tiago Djaló,Centre-Back,2000-04-09,Portugal,2024
+503,FC Porto,15902,Marcano,Centre-Back,1987-06-23,Spain,2024
+503,FC Porto,3442,Marko Grujić,Defensive Midfield,1996-04-13,Serbia,2024
+503,FC Porto,1166,Pepê,Left Winger,1997-02-24,Brazil,2024
+503,FC Porto,215434,Samu Omorodion,Centre-Forward,,Spain,2024
+503,FC Porto,171343,André Franco,Attacking Midfield,1998-04-12,Portugal,2024
+503,FC Porto,153629,Alan Varela,Defensive Midfield,2001-07-04,Argentina,2024
+582,GD Estoril Praia,7821,Joel Robles,Goalkeeper,1990-06-17,Spain,2024
+582,GD Estoril Praia,110864,Kevin Chamorro,Goalkeeper,2000-04-08,Costa Rica,2024
+582,GD Estoril Praia,213111,Diogo Dias,Goalkeeper,2003-06-17,Portugal,2024
+582,GD Estoril Praia,272009,Željko Vitorović,Goalkeeper,2006-02-02,Serbia,2024
+582,GD Estoril Praia,37555,Pedro Amaral,Defence,1997-08-25,Portugal,2024
+582,GD Estoril Praia,75196,Felix Bacher,Defence,2000-10-25,Austria,2024
+582,GD Estoril Praia,151006,Kévin Boma,Defence,2002-11-20,France,2024
+582,GD Estoril Praia,179065,Leonardo,Defence,2003-07-21,Brazil,2024
+582,GD Estoril Praia,185120,Gonçalo Costa,Defence,2000-02-18,Portugal,2024
+582,GD Estoril Praia,204177,Tiago Brito,Defence,2004-04-16,Portugal,2024
+582,GD Estoril Praia,213136,Wagner Pina,Defence,2002-11-03,Cape Verde Islands,2024
+582,GD Estoril Praia,274250,Philippe Lanquetin,Defence,2005-02-21,France,2024
+582,GD Estoril Praia,276658,Tiago Parente,Defence,2004-01-14,Portugal,2024
+582,GD Estoril Praia,8569,Xeka,Midfield,1994-11-10,Portugal,2024
+582,GD Estoril Praia,16752,João Carvalho,Midfield,1997-03-09,Portugal,2024
+582,GD Estoril Praia,146983,Jandro Orellana,Midfield,2000-08-07,Spain,2024
+582,GD Estoril Praia,229280,Manga Foe Ondoa,Midfield,2005-12-12,France,2024
+582,GD Estoril Praia,243570,Pedro Carvalho,Midfield,2003-02-14,Portugal,2024
+582,GD Estoril Praia,261741,Andrei Florea,Midfield,2005-05-30,Romania,2024
+582,GD Estoril Praia,276438,João Costa,Midfield,2003-10-23,Portugal,2024
+582,GD Estoril Praia,74159,Fabrício,Offence,1984-12-26,Brazil,2024
+582,GD Estoril Praia,248958,Fabrício Garcia,Offence,2001-05-04,Cape Verde Islands,2024
+582,GD Estoril Praia,274885,Isnaba Mané,Offence,2004-06-29,Guinea-Bissau,2024
+582,GD Estoril Praia,170694,Vinicius Zanocelo,Central Midfield,2001-01-30,Brazil,2024
+582,GD Estoril Praia,141357,Alejandro Marqués,Centre-Forward,2000-08-04,Venezuela,2024
+582,GD Estoril Praia,135650,Jordan Holsgrove,Defensive Midfield,1999-09-10,Scotland,2024
+582,GD Estoril Praia,37670,Pedro Álvaro,Centre-Back,2000-03-02,Portugal,2024
+582,GD Estoril Praia,7833,Eliaquim Mangala,Centre-Back,1991-02-13,France,2024
+582,GD Estoril Praia,636,Rafik Guitane,Right Winger,1999-05-26,France,2024
+582,GD Estoril Praia,553,Yanis Begraoui,Centre-Forward,2001-07-04,France,2024
+582,GD Estoril Praia,249234,André,Left Winger,2001-05-19,Portugal,2024
+582,GD Estoril Praia,244769,Israel Salazar,Centre-Forward,2003-05-10,Spain,2024
+583,Moreirense FC,45260,Caio Secco,Goalkeeper,1990-12-22,Brazil,2024
+583,Moreirense FC,79821,Mika,Goalkeeper,1991-03-08,Switzerland,2024
+583,Moreirense FC,117677,Kewin,Goalkeeper,1995-01-25,Brazil,2024
+583,Moreirense FC,32509,Dani Morer,Defence,1998-02-05,Spain,2024
+583,Moreirense FC,179028,Michel Augusto,Defence,2003-05-20,Brazil,2024
+583,Moreirense FC,74795,Bernardo Martins,Midfield,1997-12-04,Portugal,2024
+583,Moreirense FC,159709,Joel Jorquera,Midfield,2000-08-19,Spain,2024
+583,Moreirense FC,160459,Sidnei Tavares,Midfield,2001-09-29,Cape Verde Islands,2024
+583,Moreirense FC,169637,Guilherme Liberato,Midfield,2001-06-16,Brazil,2024
+583,Moreirense FC,274500,Afonso Assis,Midfield,2006-07-15,Portugal,2024
+583,Moreirense FC,9178,Ivo Rodrigues,Offence,1995-03-30,Portugal,2024
+583,Moreirense FC,37636,Guilherme Schettine,Offence,1995-10-10,Brazil,2024
+583,Moreirense FC,149744,Cédric Teguia,Offence,2001-10-01,Cameroon,2024
+583,Moreirense FC,156631,Jeremy Antonisse,Offence,2002-03-29,Curaçao,2024
+583,Moreirense FC,262588,Pedro Santos,Offence,2003-02-10,Portugal,2024
+583,Moreirense FC,275027,Yan Maranhão,Offence,2002-09-13,Brazil,2024
+583,Moreirense FC,245506,Luis Asué,Centre-Forward,2001-07-09,Equatorial Guinea,2024
+583,Moreirense FC,213097,Gilberto Batista,Centre-Back,2003-12-29,Guinea-Bissau,2024
+583,Moreirense FC,188084,Dinis Pinto,Right-Back,2000-08-24,Portugal,2024
+583,Moreirense FC,178767,Leonardo Buta,Left-Back,2002-06-05,Portugal,2024
+583,Moreirense FC,169237,Alanzinho,Attacking Midfield,2000-03-08,Brazil,2024
+583,Moreirense FC,154093,Hernâni Infande,Right Winger,2001-04-03,Portugal,2024
+583,Moreirense FC,150786,Rúben Ramos,Defensive Midfield,1999-03-25,Portugal,2024
+583,Moreirense FC,64587,Godfried Frimpong,Left-Back,1999-04-21,Netherlands,2024
+583,Moreirense FC,45440,Marcelo,Centre-Back,1989-07-27,Brazil,2024
+583,Moreirense FC,39959,Lawrence Ofori,Central Midfield,1998-06-28,Ghana,2024
+583,Moreirense FC,13839,Maracás,Centre-Back,1994-04-27,Brazil,2024
+712,FC Arouca,10345,Nico Mantl,Goalkeeper,2000-02-06,Germany,2024
+712,FC Arouca,102210,João Valido,Goalkeeper,2000-03-03,Portugal,2024
+712,FC Arouca,202404,Jakub Vinarčík,Goalkeeper,2005-07-11,Slovakia,2024
+712,FC Arouca,131240,Amadou Dante,Defence,2000-10-07,Mali,2024
+712,FC Arouca,140169,José Fontán,Defence,2000-02-11,Spain,2024
+712,FC Arouca,151938,Boris Popović,Defence,2000-02-26,France,2024
+712,FC Arouca,171383,Chico Lamba,Defence,2003-03-10,Portugal,2024
+712,FC Arouca,37331,Loum Ndiaye,Midfield,1996-12-30,Senegal,2024
+712,FC Arouca,161005,Dylan Nandín,Offence,2002-02-28,Uruguay,2024
+712,FC Arouca,178782,Brian Mansilla,Offence,2002-05-14,Uruguay,2024
+712,FC Arouca,191142,Pedro Santos,Central Midfield,2000-10-12,Portugal,2024
+712,FC Arouca,180178,Puche,Left Winger,2001-04-30,Spain,2024
+712,FC Arouca,177322,Henrique Araujo,Centre-Forward,2002-01-19,Portugal,2024
+712,FC Arouca,169128,Taichi Fukui,Central Midfield,2004-07-15,Japan,2024
+712,FC Arouca,153734,Matí­as Rocha,Centre-Back,2001-02-13,Uruguay,2024
+712,FC Arouca,146361,Weverson,Left-Back,2000-07-05,Brazil,2024
+712,FC Arouca,143641,Alfonso Trezza,Right Winger,1999-06-22,Uruguay,2024
+712,FC Arouca,136929,Pablo Gozalbez,Attacking Midfield,2001-04-30,Spain,2024
+712,FC Arouca,130345,Morlaye Sylla,Left Winger,1998-07-27,Guinea,2024
+712,FC Arouca,80581,Güven Yalçın,Centre-Forward,1999-01-18,Turkey,2024
+712,FC Arouca,79675,Nino Galović,Centre-Back,1992-07-06,Croatia,2024
+712,FC Arouca,53121,Tiago Esgaio,Right-Back,1995-08-01,Portugal,2024
+712,FC Arouca,45451,Pedro Moreira,Central Midfield,1989-03-13,Portugal,2024
+712,FC Arouca,37562,Alex Pinto,Right-Back,1998-07-08,Portugal,2024
+712,FC Arouca,32949,Jason,Right Winger,1994-07-06,Spain,2024
+712,FC Arouca,21132,David Simão,Central Midfield,1990-05-15,France,2024
+810,Boavista FC,1530,César,Goalkeeper,1992-01-27,Brazil,2024
+810,Boavista FC,16037,Tomáš Vaclík,Goalkeeper,1989-03-29,Czech Republic,2024
+810,Boavista FC,124829,João Gonçalves,Goalkeeper,2000-11-05,Portugal,2024
+810,Boavista FC,213121,Luís Henrique,Goalkeeper,2004-11-17,Brazil,2024
+810,Boavista FC,221334,Tomé,Goalkeeper,2006-12-16,Portugal,2024
+810,Boavista FC,4028,Osman Kakay,Defence,1997-08-25,Sierra Leone,2024
+810,Boavista FC,64369,Steven Vitória,Defence,1987-01-11,Canada,2024
+810,Boavista FC,181029,Vitaliy Lystsov,Defence,1995-07-11,Russia,2024
+810,Boavista FC,185142,Pedro Gomes,Defence,2003-06-04,Portugal,2024
+810,Boavista FC,263674,Alexandre Marques,Defence,2005-10-23,Portugal,2024
+810,Boavista FC,263675,Tomás Silva,Defence,2006-05-25,Portugal,2024
+810,Boavista FC,270594,Leonardo Ferreira,Defence,2007-07-29,Portugal,2024
+810,Boavista FC,275406,Sidoine Fogning,Defence,2001-11-11,Cameroon,2024
+810,Boavista FC,6361,Gboly Ariyibi,Midfield,1995-01-18,England,2024
+810,Boavista FC,7450,Marco van Ginkel,Midfield,1992-12-01,Netherlands,2024
+810,Boavista FC,185124,Diego Llorente,Midfield,2001-10-08,Spain,2024
+810,Boavista FC,213087,Marco Ribeiro,Midfield,2005-06-14,Portugal,2024
+810,Boavista FC,8889,Abdoulay Diaby,Offence,1991-05-21,Mali,2024
+810,Boavista FC,9980,Moussa Koné,Offence,1996-12-30,Senegal,2024
+810,Boavista FC,37338,Manuel Namora,Offence,1998-02-12,Portugal,2024
+810,Boavista FC,263786,João Barros,Offence,2006-01-10,Portugal,2024
+810,Boavista FC,265391,Fábio Sambú,Offence,2007-09-06,Portugal,2024
+810,Boavista FC,80871,Ibrahima Camara,Defensive Midfield,1999-01-25,Guinea,2024
+810,Boavista FC,45141,Filipe Ferreira,Left-Back,1990-09-27,Portugal,2024
+810,Boavista FC,42575,Ilija Vukotić,Defensive Midfield,1999-01-07,Montenegro,2024
+810,Boavista FC,37672,Miguel Reisinho,Central Midfield,1999-04-09,Portugal,2024
+810,Boavista FC,32069,Salvador Agra,Right Winger,1991-11-11,Portugal,2024
+810,Boavista FC,28243,Rodrigo Abascal,Centre-Back,1994-01-14,Uruguay,2024
+810,Boavista FC,11702,Sebastián Pérez,Defensive Midfield,1993-03-29,Colombia,2024
+810,Boavista FC,8478,Layvin Kurzawa,Left-Back,1992-09-04,France,2024
+810,Boavista FC,213083,Gonçalo Almeida,Right-Back,2003-05-06,Portugal,2024
+810,Boavista FC,206696,Tiago Machado,Centre-Forward,2004-04-02,Portugal,2024
+810,Boavista FC,188089,Joel Silva,Central Midfield,2003-02-11,Portugal,2024
+810,Boavista FC,186482,Julio Dabo,Left-Back,2004-03-13,Portugal,2024
+810,Boavista FC,140290,Róbert Boženík,Centre-Forward,1999-11-18,Slovakia,2024
+1903,Sport Lisboa e Benfica,111481,Anatolii Trubin,Goalkeeper,2001-08-01,Ukraine,2024
+1903,Sport Lisboa e Benfica,153846,Samuel Soares,Goalkeeper,2002-06-15,Portugal,2024
+1903,Sport Lisboa e Benfica,192010,Andre Gomes,Goalkeeper,2004-10-20,Portugal,2024
+1903,Sport Lisboa e Benfica,3205,Nicolás Otamendi,Defence,1988-02-12,Argentina,2024
+1903,Sport Lisboa e Benfica,177842,Tomas Araujo,Defence,2002-05-16,Portugal,2024
+1903,Sport Lisboa e Benfica,179007,Gustavo Marques,Defence,2001-10-09,Brazil,2024
+1903,Sport Lisboa e Benfica,182020,Álvaro Carreras,Defence,2003-03-23,Spain,2024
+1903,Sport Lisboa e Benfica,220410,Adrian Bajrami,Defence,2002-04-05,Switzerland,2024
+1903,Sport Lisboa e Benfica,262709,João Fonseca,Defence,2006-08-31,Portugal,2024
+1903,Sport Lisboa e Benfica,262714,Joshua Wynder,Defence,2005-05-02,USA,2024
+1903,Sport Lisboa e Benfica,262856,Gonçalo Oliveira,Defence,2006-07-04,Portugal,2024
+1903,Sport Lisboa e Benfica,263709,Leandro Santos,Defence,2005-09-28,Portugal,2024
+1903,Sport Lisboa e Benfica,7474,Orkun Kökçü,Midfield,2000-12-29,Turkey,2024
+1903,Sport Lisboa e Benfica,38088,Fredrik Aursnes,Midfield,1995-12-10,Norway,2024
+1903,Sport Lisboa e Benfica,204143,Hugo Félix,Midfield,2004-03-03,Portugal,2024
+1903,Sport Lisboa e Benfica,246194,Diogo Prioste,Midfield,2004-03-26,Portugal,2024
+1903,Sport Lisboa e Benfica,262628,Nuno Félix,Midfield,2004-03-16,Portugal,2024
+1903,Sport Lisboa e Benfica,262645,João Veloso,Midfield,2005-06-26,Portugal,2024
+1903,Sport Lisboa e Benfica,275555,Tiago Freitas,Midfield,2006-08-17,Portugal,2024
+1903,Sport Lisboa e Benfica,67299,Vangelis Pavlidis,Offence,1998-11-21,Greece,2024
+1903,Sport Lisboa e Benfica,122313,Zeki Amdouni,Offence,2000-12-04,Switzerland,2024
+1903,Sport Lisboa e Benfica,149737,Muhammed Kerem Aktürkoğlu,Offence,1998-10-21,Turkey,2024
+1903,Sport Lisboa e Benfica,157796,Andreas Schjelderup,Offence,2004-06-01,Norway,2024
+1903,Sport Lisboa e Benfica,251296,João Rêgo,Offence,2005-06-20,Portugal,2024
+1903,Sport Lisboa e Benfica,133573,Tiago Gouveia,Right Winger,2001-06-18,Portugal,2024
+1903,Sport Lisboa e Benfica,82403,Leandro Barreiro Martins,Central Midfield,2000-01-03,Luxembourg,2024
+1903,Sport Lisboa e Benfica,70583,Alexander Bah,Right-Back,1997-12-09,Denmark,2024
+1903,Sport Lisboa e Benfica,37560,Florentino,Defensive Midfield,1999-08-19,Portugal,2024
+1903,Sport Lisboa e Benfica,9553,Bruma,Left Winger,1994-10-24,Guinea-Bissau,2024
+1903,Sport Lisboa e Benfica,7988,Renato Sanches,Central Midfield,1997-08-18,Portugal,2024
+1903,Sport Lisboa e Benfica,3210,Ángel di María,Right Winger,1988-02-14,Argentina,2024
+1903,Sport Lisboa e Benfica,2298,Andrea Belotti,Centre-Forward,1993-12-20,Italy,2024
+1903,Sport Lisboa e Benfica,1723,Arthur Cabral,Centre-Forward,1998-04-25,Brazil,2024
+1903,Sport Lisboa e Benfica,194008,Manu Silva,Defensive Midfield,2001-06-12,Portugal,2024
+1903,Sport Lisboa e Benfica,185610,Antonio Silva,Centre-Back,2003-10-31,Portugal,2024
+1903,Sport Lisboa e Benfica,182123,Gianluca Prestianni,Right Winger,2006-01-31,Argentina,2024
+1903,Sport Lisboa e Benfica,175753,Samuel Dahl,Left-Back,2003-03-04,Sweden,2024
+5529,CD Nacional,1232,Lucas França,Goalkeeper,1996-01-19,Brazil,2024
+5529,CD Nacional,152179,Rui Encarnação,Goalkeeper,1998-04-05,Portugal,2024
+5529,CD Nacional,229282,Cesar Augusto,Goalkeeper,2003-08-23,Brazil,2024
+5529,CD Nacional,1437,Léo Santos,Defence,1998-12-09,Brazil,2024
+5529,CD Nacional,37727,Ivanildo Fernandes,Defence,1996-03-26,Portugal,2024
+5529,CD Nacional,169260,Gustavo Garcia,Defence,2002-01-04,Brazil,2024
+5529,CD Nacional,169570,Zé Vitor,Defence,2001-02-09,Brazil,2024
+5529,CD Nacional,181512,Ulisses,Defence,1999-09-28,Brazil,2024
+5529,CD Nacional,231219,Francisco Gonçalves,Defence,2004-03-05,Portugal,2024
+5529,CD Nacional,243604,José Gomes,Defence,1996-07-20,Portugal,2024
+5529,CD Nacional,15920,Bruno Costa,Midfield,1997-04-19,Portugal,2024
+5529,CD Nacional,37447,João Aurélio,Midfield,1988-08-17,Portugal,2024
+5529,CD Nacional,45304,André Sousa,Midfield,1990-07-09,Portugal,2024
+5529,CD Nacional,82208,Arvin Appiah,Midfield,2001-01-05,England,2024
+5529,CD Nacional,103127,Daniel Penha,Midfield,1998-10-17,Brazil,2024
+5529,CD Nacional,147456,Miguel Baeza,Midfield,2000-03-27,Spain,2024
+5529,CD Nacional,157367,Luís Esteves,Midfield,1998-04-09,Portugal,2024
+5529,CD Nacional,169258,Paulinho Bóia,Midfield,1998-06-26,Brazil,2024
+5529,CD Nacional,179837,Matheus Dias,Midfield,2002-05-09,Brazil,2024
+5529,CD Nacional,181247,Fuki Yamada,Midfield,2001-07-10,Japan,2024
+5529,CD Nacional,215774,El Hadji Soumaré,Midfield,2003-01-07,Senegal,2024
+5529,CD Nacional,243620,Jota Garcês,Midfield,1993-03-07,Portugal,2024
+5529,CD Nacional,270035,Chiheb Labidi,Midfield,2001-06-01,Tunisia,2024
+5529,CD Nacional,37374,Ruben Macedo,Offence,1996-03-09,Portugal,2024
+5529,CD Nacional,45354,Joël Tagueu,Offence,1993-12-06,Cameroon,2024
+5529,CD Nacional,49498,Dudu,Offence,1999-08-10,Brazil,2024
+5529,CD Nacional,193027,Isaac Aguiar,Offence,2004-03-26,Brazil,2024
+5530,CD Santa Clara,1528,Gabriel Batista,Goalkeeper,1998-06-03,Brazil,2024
+5530,CD Santa Clara,181527,Neneca,Goalkeeper,2003-08-27,Brazil,2024
+5530,CD Santa Clara,181556,Denivys,Goalkeeper,2001-05-01,Brazil,2024
+5530,CD Santa Clara,11524,Frederico Venâncio,Defence,1993-02-04,Portugal,2024
+5530,CD Santa Clara,32569,Pedro Pacheco,Defence,1997-01-27,Portugal,2024
+5530,CD Santa Clara,45265,Luís Rocha,Defence,1986-08-13,Portugal,2024
+5530,CD Santa Clara,138226,Matheus Pereira,Defence,2000-12-21,Brazil,2024
+5530,CD Santa Clara,178743,Diogo Calila,Defence,1998-10-10,Portugal,2024
+5530,CD Santa Clara,181619,Matheus Nunes,Defence,2001-03-01,Brazil,2024
+5530,CD Santa Clara,243594,Sidney Lima,Defence,1997-01-17,Brazil,2024
+5530,CD Santa Clara,278473,Italo Cabelinho,Defence,2004-02-27,Brazil,2024
+5530,CD Santa Clara,278476,Henrique Silva,Defence,2005-10-17,Brazil,2024
+5530,CD Santa Clara,37393,Serginho,Midfield,1999-12-01,Portugal,2024
+5530,CD Santa Clara,43967,Wendel,Midfield,2000-08-02,Brazil,2024
+5530,CD Santa Clara,80878,Pedro Ferreira,Midfield,1998-01-05,Portugal,2024
+5530,CD Santa Clara,171363,Ricardinho,Midfield,1998-08-06,Portugal,2024
+5530,CD Santa Clara,177639,Matheusinho,Midfield,1998-02-11,Brazil,2024
+5530,CD Santa Clara,246475,Daniel,Midfield,2003-04-06,Brazil,2024
+5530,CD Santa Clara,278474,José Tavares,Midfield,2003-06-02,Cape Verde Islands,2024
+5530,CD Santa Clara,118015,Vinícius,Offence,1999-05-07,Brazil,2024
+5530,CD Santa Clara,122353,Adriano Firmino,Offence,1999-11-04,Brazil,2024
+5530,CD Santa Clara,124982,Lucas Soares,Offence,1998-05-04,Brazil,2024
+5530,CD Santa Clara,168766,Gabriel Silva,Offence,2002-03-22,Brazil,2024
+5530,CD Santa Clara,221564,Edney,Offence,2004-07-26,Brazil,2024
+5530,CD Santa Clara,261163,João Costa,Offence,2000-03-07,Portugal,2024
+5530,CD Santa Clara,274919,Vital Maia,Offence,2007-02-17,Portugal,2024
+5530,CD Santa Clara,276960,Adriel,Offence,2005-12-06,Brazil,2024
+5530,CD Santa Clara,43634,Guilherme Ramos,Centre-Back,1997-08-11,Portugal,2024
+5531,FC Famalicão,37556,Ivan Zlobin,Goalkeeper,1997-03-07,Russia,2024
+5531,FC Famalicão,171387,Hugo Cunha,Goalkeeper,2001-09-06,Portugal,2024
+5531,FC Famalicão,176011,Lazar Carevic,Goalkeeper,1999-03-16,Montenegro,2024
+5531,FC Famalicão,264463,Gabriel Cabral,Goalkeeper,2003-04-19,Brazil,2024
+5531,FC Famalicão,1785,Gil Dias,Defence,1996-09-28,Portugal,2024
+5531,FC Famalicão,11587,Rafa Soares,Defence,1995-05-09,Portugal,2024
+5531,FC Famalicão,112965,Leonardo Realpe,Defence,2001-02-26,Ecuador,2024
+5531,FC Famalicão,121960,Lucas Felipe Calegari,Defence,2002-02-27,Brazil,2024
+5531,FC Famalicão,126147,Rodrigo Pinheiro,Defence,2002-08-28,Portugal,2024
+5531,FC Famalicão,213107,Pedro,Defence,2004-11-16,Angola,2024
+5531,FC Famalicão,221571,Ibrahima Ba,Defence,2003-09-03,Senegal,2024
+5531,FC Famalicão,7533,Tommie van de Looi,Midfield,1999-07-02,Netherlands,2024
+5531,FC Famalicão,182916,Otar Mamageishvili,Midfield,2003-01-15,Georgia,2024
+5531,FC Famalicão,213085,Samuel Lobato,Midfield,2001-10-19,Portugal,2024
+5531,FC Famalicão,213102,Rodrigo Ribeiro,Midfield,2006-05-26,Portugal,2024
+5531,FC Famalicão,215432,Mathias De Amorin,Midfield,2004-12-10,France,2024
+5531,FC Famalicão,265516,Yassir Zabiri,Midfield,2005-02-23,Morocco,2024
+5531,FC Famalicão,45511,Rochinha,Offence,1995-05-03,Portugal,2024
+5531,FC Famalicão,213112,Leonardo Oliveira,Offence,2005-02-08,Sweden,2024
+5531,FC Famalicão,215770,Václav Sejk,Offence,2002-05-18,Czech Republic,2024
+5531,FC Famalicão,169412,Marcos Vinicios,Left Winger,2001-02-23,Brazil,2024
+5531,FC Famalicão,168613,Otso Liimatta,Attacking Midfield,2004-07-10,Finland,2024
+5531,FC Famalicão,154741,Óscar Aranda,Left Winger,2002-04-29,Spain,2024
+5531,FC Famalicão,148136,Mirko Topić,Defensive Midfield,2001-02-05,Serbia,2024
+5531,FC Famalicão,147884,Simon Elisor,Centre-Forward,1999-07-22,France,2024
+5531,FC Famalicão,97367,Justin de Haas,Centre-Back,2000-02-01,Netherlands,2024
+5531,FC Famalicão,43464,Enea Mihaj,Centre-Back,1998-07-05,Albania,2024
+5531,FC Famalicão,187280,Gustavo Sa,Attacking Midfield,2004-11-11,Portugal,2024
+5533,Gil Vicente FC,81896,Andrew,Goalkeeper,2001-07-01,Brazil,2024
+5533,Gil Vicente FC,157154,Brian Araújo,Goalkeeper,2000-04-29,Portugal,2024
+5533,Gil Vicente FC,263963,Miloš Gordić,Goalkeeper,2000-03-05,Serbia,2024
+5533,Gil Vicente FC,160445,Marvin Elimbi,Defence,2003-02-20,France,2024
+5533,Gil Vicente FC,182073,Sandro Cruz,Defence,2001-05-12,Angola,2024
+5533,Gil Vicente FC,204139,Jonathan Mutombo Mawesi,Defence,2002-08-27,France,2024
+5533,Gil Vicente FC,253568,Karel Pérez,Defence,2005-08-25,Cuba,2024
+5533,Gil Vicente FC,98160,Sergio Bermejo,Midfield,1997-08-17,Spain,2024
+5533,Gil Vicente FC,133788,Sphephelo Sithole,Midfield,1999-03-03,South Africa,2024
+5533,Gil Vicente FC,263792,Gui Beleza,Midfield,2006-12-09,Portugal,2024
+5533,Gil Vicente FC,267932,Mohamed Bamba,Midfield,2004-10-08,Ivory Coast,2024
+5533,Gil Vicente FC,275268,Diogo Costa,Midfield,2003-05-04,Portugal,2024
+5533,Gil Vicente FC,278446,Rodrigo Rodrigues,Midfield,2007-12-06,Portugal,2024
+5533,Gil Vicente FC,143820,Carlos Eduardo,Offence,2002-08-10,Brazil,2024
+5533,Gil Vicente FC,176857,Jorge Aguirre,Offence,2000-01-05,Cuba,2024
+5533,Gil Vicente FC,178755,Pablo Felipe,Offence,2004-01-02,Brazil,2024
+5533,Gil Vicente FC,153579,Facundo Cáseres,Central Midfield,2001-05-28,Argentina,2024
+5533,Gil Vicente FC,141483,José Carlos,Right-Back,1998-07-31,Portugal,2024
+5533,Gil Vicente FC,141380,Kazu,Left-Back,2000-03-18,Brazil,2024
+5533,Gil Vicente FC,127657,Félix Correia,Left Winger,2001-01-22,Portugal,2024
+5533,Gil Vicente FC,114011,Jesús Castillo,Defensive Midfield,2001-06-11,Peru,2024
+5533,Gil Vicente FC,45422,João Teixeira,Attacking Midfield,1994-02-06,Portugal,2024
+5533,Gil Vicente FC,45365,Rúben Fernandes,Centre-Back,1986-05-06,Portugal,2024
+5533,Gil Vicente FC,44804,Kanya Fujimoto,Attacking Midfield,1999-07-01,Japan,2024
+5533,Gil Vicente FC,9125,Jonathan Buatu,Centre-Back,1993-09-27,Belgium,2024
+5533,Gil Vicente FC,8846,Josué Sá,Centre-Back,1992-06-17,Portugal,2024
+5533,Gil Vicente FC,8765,Jordi Mboula,Right Winger,1999-03-16,Spain,2024
+5533,Gil Vicente FC,190876,Joao Marques,Left Winger,2002-02-13,Portugal,2024
+5533,Gil Vicente FC,180125,Santi García,Attacking Midfield,2001-08-29,Spain,2024
+5533,Gil Vicente FC,177301,Tidjany Touré,Left Winger,2002-07-15,France,2024
+5543,Vitória SC,16734,Bruno Varela,Goalkeeper,1994-11-04,Portugal,2024
+5543,Vitória SC,45324,Charles Silva,Goalkeeper,1994-02-04,Brazil,2024
+5543,Vitória SC,171338,João Oliveira,Goalkeeper,2002-09-18,Portugal,2024
+5543,Vitória SC,204127,Gui,Goalkeeper,2006-05-13,Portugal,2024
+5543,Vitória SC,171346,Filipe Relvas,Defence,1999-09-20,Portugal,2024
+5543,Vitória SC,177044,Joao Mendes,Defence,2000-04-13,Portugal,2024
+5543,Vitória SC,180163,Óscar Rivas,Defence,2000-03-27,Spain,2024
+5543,Vitória SC,262361,Diogo Lobão,Defence,2006-01-20,Portugal,2024
+5543,Vitória SC,274259,Rodrigo Silva,Defence,2007-03-14,Portugal,2024
+5543,Vitória SC,276571,Ricardo Ribeiro,Defence,2006-04-26,Portugal,2024
+5543,Vitória SC,45514,Samu,Midfield,1996-04-21,Portugal,2024
+5543,Vitória SC,145346,Telmo Arcanjo,Midfield,2001-06-21,Cape Verde Islands,2024
+5543,Vitória SC,261582,Marco Cruz,Midfield,2004-02-23,Portugal,2024
+5543,Vitória SC,262358,Rodrigo Duarte,Midfield,2006-02-07,Portugal,2024
+5543,Vitória SC,263122,Vando Félix,Midfield,2002-09-03,Guinea-Bissau,2024
+5543,Vitória SC,188085,Chuchu,Offence,1998-05-04,Venezuela,2024
+5543,Vitória SC,243569,Gustavo Silva,Offence,1999-06-01,Brazil,2024
+5543,Vitória SC,273367,Dieu Michel,Offence,2004-02-09,Canada,2024
+5543,Vitória SC,213131,Heverton Santos,Right-Back,2001-02-01,Brazil,2024
+5543,Vitória SC,191259,Beni,Central Midfield,2002-05-21,Angola,2024
+5543,Vitória SC,171367,Tomás Händel,Defensive Midfield,2000-11-27,Portugal,2024
+5543,Vitória SC,171351,Miguel Magalhães,Right-Back,2002-11-16,Portugal,2024
+5543,Vitória SC,81548,Úmaro Embaló,Right Winger,2001-05-06,Portugal,2024
+5543,Vitória SC,45274,Tiago Silva,Attacking Midfield,1993-06-02,Portugal,2024
+5543,Vitória SC,37717,João Mendes,Attacking Midfield,1994-10-21,Portugal,2024
+5543,Vitória SC,37558,Nuno Santos,Attacking Midfield,1999-03-02,Portugal,2024
+5543,Vitória SC,32343,Mikel Villanueva,Centre-Back,1993-04-14,Venezuela,2024
+5543,Vitória SC,23245,Toni Borevković,Centre-Back,1997-06-18,Croatia,2024
+5543,Vitória SC,4003,Nélson Oliveira,Centre-Forward,1991-08-08,Portugal,2024
+5543,Vitória SC,1771,Bruno Gaspar,Right-Back,1993-04-21,Angola,2024
+5602,SC Farense,37336,Ricardo Velho,Goalkeeper,1998-08-20,Portugal,2024
+5602,SC Farense,52986,Miguel Carvalho,Goalkeeper,1996-06-20,Portugal,2024
+5602,SC Farense,178927,Kaique,Goalkeeper,2003-04-16,Brazil,2024
+5602,SC Farense,45389,Raul Silva,Defence,1989-11-04,Brazil,2024
+5602,SC Farense,61075,Lucas Áfrico,Defence,1995-02-05,Brazil,2024
+5602,SC Farense,165583,Paulo Victor,Defence,2001-04-13,Brazil,2024
+5602,SC Farense,185118,Derick Poloni,Defence,1993-09-01,Brazil,2024
+5602,SC Farense,126991,Álex Bermejo,Midfield,1998-12-11,Spain,2024
+5602,SC Farense,213088,Claudio Falcão,Midfield,1994-07-03,Brazil,2024
+5602,SC Farense,251250,Miguel Menino,Midfield,2003-01-10,Portugal,2024
+5602,SC Farense,252899,Rafael Teixeira,Midfield,2006-01-18,Portugal,2024
+5602,SC Farense,37688,Rui Costa,Offence,1996-02-20,Portugal,2024
+5602,SC Farense,45243,Tómané,Offence,1992-10-23,Portugal,2024
+5602,SC Farense,45524,Yusupha Njie,Offence,1994-01-03,Gambia,2024
+5602,SC Farense,263885,Rivaldo Morais,Offence,2000-09-18,Cape Verde Islands,2024
+5602,SC Farense,217543,Samuel Justo,Central Midfield,2004-04-02,Portugal,2024
+5602,SC Farense,188094,Zé Carlos,Right-Back,2001-10-30,Portugal,2024
+5602,SC Farense,180077,Marco Moreno,Centre-Back,2001-02-20,Spain,2024
+5602,SC Farense,140905,David Pastor,Right-Back,2000-02-20,Brazil,2024
+5602,SC Farense,130047,Tomás Ribeiro,Centre-Back,1999-04-30,Portugal,2024
+5602,SC Farense,45201,Neto,Central Midfield,1991-09-02,Brazil,2024
+5602,SC Farense,43565,Filipe Soares,Attacking Midfield,1999-05-20,Portugal,2024
+5602,SC Farense,33130,Darío Poveda,Centre-Forward,1997-03-13,Spain,2024
+5602,SC Farense,16402,Artur Jorge,Centre-Back,1994-08-14,Portugal,2024
+5602,SC Farense,15896,Elves,Right Winger,1999-10-02,Portugal,2024
+5602,SC Farense,11490,Marco Matias,Left Winger,1989-05-10,Portugal,2024
+5602,SC Farense,8758,Rony Lopes,Right Winger,1995-12-28,Brazil,2024
+5613,Sporting Clube de Braga,37817,Tiago Sá,Goalkeeper,1995-01-11,Portugal,2024
+5613,Sporting Clube de Braga,146753,Lukáš Horníček,Goalkeeper,2002-07-13,Czech Republic,2024
+5613,Sporting Clube de Braga,275026,João Carvalho,Goalkeeper,2004-04-09,Portugal,2024
+5613,Sporting Clube de Braga,146987,Bright Arrey-Mbi,Defence,2003-03-26,Germany,2024
+5613,Sporting Clube de Braga,180150,Victor Gómez,Defence,2000-04-01,Spain,2024
+5613,Sporting Clube de Braga,246741,Francisco Chissumba,Defence,2005-05-29,Portugal,2024
+5613,Sporting Clube de Braga,265148,Jonatás Noro,Defence,2005-07-09,Portugal,2024
+5613,Sporting Clube de Braga,121007,Rodrigo Zalazar,Midfield,1999-08-12,Uruguay,2024
+5613,Sporting Clube de Braga,161414,Ismaël Gharbi,Midfield,2004-04-10,Tunisia,2024
+5613,Sporting Clube de Braga,178756,Jean-Baptiste Gorby,Midfield,2002-07-25,France,2024
+5613,Sporting Clube de Braga,180185,Gabriel Martínez,Midfield,2003-01-22,Spain,2024
+5613,Sporting Clube de Braga,205658,Thiago Helguera,Midfield,2006-03-26,Uruguay,2024
+5613,Sporting Clube de Braga,273888,Diego Rodrigues,Midfield,2005-05-24,Portugal,2024
+5613,Sporting Clube de Braga,274811,Guilherme Barbosa,Midfield,2005-08-08,Portugal,2024
+5613,Sporting Clube de Braga,275993,Vasconcelos,Midfield,2005-02-26,Portugal,2024
+5613,Sporting Clube de Braga,276667,Rúben Furtado,Midfield,2005-12-01,Portugal,2024
+5613,Sporting Clube de Braga,102579,Fran Navarro,Offence,1998-02-03,Spain,2024
+5613,Sporting Clube de Braga,137515,Amine El Ouazzani,Offence,2001-07-15,France,2024
+5613,Sporting Clube de Braga,178733,Roger Fernandes,Offence,2005-11-21,Portugal,2024
+5613,Sporting Clube de Braga,275538,Sandro Vidigal,Offence,2007-07-28,Portugal,2024
+5613,Sporting Clube de Braga,276668,Afonso Patrão,Offence,2007-02-03,Portugal,2024
+5613,Sporting Clube de Braga,170423,Robson Bambu,Centre-Back,1997-11-12,Brazil,2024
+5613,Sporting Clube de Braga,125700,João Ferreira,Centre-Back,2001-03-22,Portugal,2024
+5613,Sporting Clube de Braga,67704,Uroš Račić,Central Midfield,1998-03-17,Serbia,2024
+5613,Sporting Clube de Braga,45401,Ricardo Horta,Left Winger,1994-09-15,Portugal,2024
+5613,Sporting Clube de Braga,33339,Paulo Oliveira,Centre-Back,1992-01-08,Portugal,2024
+5613,Sporting Clube de Braga,33111,Adrián Gomez,null,1997-01-09,Spain,2024
+5613,Sporting Clube de Braga,13911,Vitor Carvalho,Defensive Midfield,1997-05-27,Brazil,2024
+5613,Sporting Clube de Braga,3249,João Moutinho,Central Midfield,1986-09-08,Portugal,2024
+5613,Sporting Clube de Braga,469,Sikou Niakaté,Centre-Back,1999-07-10,France,2024
+5613,Sporting Clube de Braga,204175,Rodrigo Macedo,Centre-Forward,2003-07-09,Portugal,2024
+6618,Casa Pia AC,33894,Patrick Sequeira,Goalkeeper,1999-03-01,Costa Rica,2024
+6618,Casa Pia AC,43642,Daniel Azevedo,Goalkeeper,1998-02-12,Portugal,2024
+6618,Casa Pia AC,77869,Ricardo Batista,Goalkeeper,1986-11-19,Portugal,2024
+6618,Casa Pia AC,137655,Ruben Kluivert,Defence,2001-05-21,Netherlands,2024
+6618,Casa Pia AC,171386,Joao Goulart,Defence,2000-01-27,Portugal,2024
+6618,Casa Pia AC,186634,Isaac Monteiro,Defence,2004-03-04,Portugal,2024
+6618,Casa Pia AC,274982,Kaly,Defence,2003-11-27,Angola,2024
+6618,Casa Pia AC,45116,Jérémy Livolant,Midfield,1998-01-09,France,2024
+6618,Casa Pia AC,84102,Miguel Sousa,Midfield,1998-09-19,Portugal,2024
+6618,Casa Pia AC,207545,Adrian Kraev,Midfield,1999-02-14,Bulgaria,2024
+6618,Casa Pia AC,104016,Cauê,Offence,2002-11-16,Brazil,2024
+6618,Casa Pia AC,144580,Claudio Mendes,Offence,2000-12-08,Spain,2024
+6618,Casa Pia AC,218361,Korede Osundina,Offence,2004-02-13,USA,2024
+6618,Casa Pia AC,261166,Henrique Pereira,Offence,2002-02-15,Portugal,2024
+6618,Casa Pia AC,277805,Renato Nhaga,Offence,2007-03-27,Guinea-Bissau,2024
+6618,Casa Pia AC,128303,Samuel Silvera,Right Winger,2000-10-25,Portugal,2024
+6618,Casa Pia AC,126877,Larra,Right-Back,1997-12-17,Spain,2024
+6618,Casa Pia AC,126156,Rafael Brito,Defensive Midfield,2002-01-19,Portugal,2024
+6618,Casa Pia AC,45303,Geraldes,Right-Back,1991-05-02,Portugal,2024
+6618,Casa Pia AC,14003,Cassiano,Centre-Forward,1989-06-16,Brazil,2024
+6618,Casa Pia AC,12813,Pablo Barbosa,Central Midfield,1999-11-14,Brazil,2024
+6618,Casa Pia AC,8781,Duplexe Tchamba,Centre-Back,1998-07-10,Cameroon,2024
+6618,Casa Pia AC,3245,José Fonte,Centre-Back,1983-12-22,Portugal,2024
+6618,Casa Pia AC,1764,Tiago Dias,Left-Back,1998-05-04,Portugal,2024
+6618,Casa Pia AC,246461,Fahem Benaïssa-Yahia,Left-Back,2002-04-29,France,2024
+6618,Casa Pia AC,204134,Kiki Silva,Right Winger,1998-02-14,Portugal,2024
+6618,Casa Pia AC,185146,Leonardo Lelo,Left-Back,2000-03-30,Portugal,2024
+6618,Casa Pia AC,171553,Iyad Mohamed,Defensive Midfield,2001-10-29,Comoros,2024
+6618,Casa Pia AC,154532,Max Svensson,Centre-Forward,2001-11-08,Spain,2024
+9136,CF Estrela da Amadora,43598,Andorinha,Goalkeeper,1996-02-02,Portugal,2024
+9136,CF Estrela da Amadora,90793,Francisco Meixedo,Goalkeeper,2001-05-19,Portugal,2024
+9136,CF Estrela da Amadora,261165,Marko Gudžulić,Goalkeeper,2002-07-05,Serbia,2024
+9136,CF Estrela da Amadora,37554,Ferro,Defence,1997-03-26,Portugal,2024
+9136,CF Estrela da Amadora,152119,Issiar Dramé,Defence,1999-02-16,France,2024
+9136,CF Estrela da Amadora,182458,Juan Mina,Defence,2004-07-27,Colombia,2024
+9136,CF Estrela da Amadora,245259,Diogo Travassos,Defence,2004-03-31,Portugal,2024
+9136,CF Estrela da Amadora,250276,Guilherme Montóia,Defence,2003-09-14,Portugal,2024
+9136,CF Estrela da Amadora,262667,Semeu,Defence,2004-05-12,Ghana,2024
+9136,CF Estrela da Amadora,274113,Georgiy Tunguliyadi,Defence,2004-10-03,Russia,2024
+9136,CF Estrela da Amadora,277674,Otávio,Defence,2005-11-25,Brazil,2024
+9136,CF Estrela da Amadora,43909,Alan Ruiz,Midfield,1993-08-19,Argentina,2024
+9136,CF Estrela da Amadora,153953,Gerson Sousa,Midfield,2002-05-10,Portugal,2024
+9136,CF Estrela da Amadora,154435,Paulo Moreira,Midfield,2000-02-17,Portugal,2024
+9136,CF Estrela da Amadora,263912,Muhammad Asis,Midfield,2004-03-04,Singapore,2024
+9136,CF Estrela da Amadora,274552,Alexandre Sola,Midfield,2003-12-14,Angola,2024
+9136,CF Estrela da Amadora,276456,Botche Candé,Midfield,2004-01-18,Guinea-Bissau,2024
+9136,CF Estrela da Amadora,37116,Jovane Cabral,Offence,1998-06-14,Cape Verde Islands,2024
+9136,CF Estrela da Amadora,52796,Chico Banza,Offence,1998-12-17,Angola,2024
+9136,CF Estrela da Amadora,57131,Tiago Ferreira,Offence,2002-03-18,Portugal,2024
+9136,CF Estrela da Amadora,244810,Eurichano Setila,Offence,2004-02-17,Angola,2024
+9136,CF Estrela da Amadora,253778,Sérgio Malé,Offence,2004-05-08,São Tomé and Príncipe,2024
+9136,CF Estrela da Amadora,153938,Leonel Bucca,Central Midfield,1999-03-20,Argentina,2024
+9136,CF Estrela da Amadora,131219,Nilton Varela,Left Winger,2001-05-25,Portugal,2024
+9136,CF Estrela da Amadora,79824,Kikas,Centre-Forward,1998-09-17,Portugal,2024
+9136,CF Estrela da Amadora,74844,Renato Pantalon,Centre-Back,1997-10-27,Croatia,2024
+9136,CF Estrela da Amadora,45350,Rodrigo Pinho,Centre-Forward,1991-05-30,Germany,2024
+9136,CF Estrela da Amadora,45195,Ruben Lima,Left-Back,1989-10-03,Portugal,2024
+9136,CF Estrela da Amadora,37490,Amine Oudrhiri,Defensive Midfield,1992-11-04,Morocco,2024
+9136,CF Estrela da Amadora,30411,Miguel Lopes,Right-Back,1986-12-19,Portugal,2024
+9136,CF Estrela da Amadora,213132,Leonardo Silva,Central Midfield,1995-09-27,Brazil,2024
+9136,CF Estrela da Amadora,213128,Keliano,Defensive Midfield,2003-01-16,Angola,2024
+9136,CF Estrela da Amadora,185138,Fábio Ronaldo,Right Winger,2001-04-28,Portugal,2024
+10340,AVS,45404,Pedro Trigueira,Goalkeeper,1988-01-04,Portugal,2024
+10340,AVS,169628,Simão Bertelli,Goalkeeper,1993-07-02,Brazil,2024
+10340,AVS,181386,Francisco Ochoa,Goalkeeper,1985-07-14,Mexico,2024
+10340,AVS,9029,Jorge Teixeira,Defence,1986-08-27,Portugal,2024
+10340,AVS,45166,Fernando Fonseca,Defence,1997-03-14,Portugal,2024
+10340,AVS,45278,Kiki,Defence,1994-12-10,Portugal,2024
+10340,AVS,98610,Tomás Tavares,Defence,2001-03-07,Portugal,2024
+10340,AVS,136169,Baptiste Roux,Defence,1999-11-26,France,2024
+10340,AVS,156602,Rafael Rodrigues,Defence,2002-01-27,Portugal,2024
+10340,AVS,178441,Cristian Castro,Defence,2001-01-25,Colombia,2024
+10340,AVS,193004,Ignacio Rodriguez,Defence,2003-11-10,Uruguay,2024
+10340,AVS,194165,Aderlan,Defence,1989-04-09,Brazil,2024
+10340,AVS,1344,Lucas Fernandes,Midfield,1997-09-20,Brazil,2024
+10340,AVS,32153,Giorgi Aburjania,Midfield,1995-01-02,Georgia,2024
+10340,AVS,66335,Eric Veiga,Midfield,1997-02-18,Luxembourg,2024
+10340,AVS,102250,Jaume Grau,Midfield,1997-05-05,Spain,2024
+10340,AVS,243619,Gustavo Mendonça,Midfield,2003-03-11,Portugal,2024
+10340,AVS,260034,Tiago Galletto,Midfield,,Spain,2024
+10340,AVS,2470,Nenê,Offence,1983-07-28,Brazil,2024
+10340,AVS,16382,Gerson Rodrigues,Offence,1995-06-20,Luxembourg,2024
+10340,AVS,111265,Yair Mena Palacios,Offence,2000-06-28,Colombia,2024
+10340,AVS,178792,John Mercado,Offence,2002-06-03,Ecuador,2024
+10340,AVS,243614,Vasco Lopes,Offence,1999-09-02,Cape Verde Islands,2024
+10340,AVS,116188,Gustavo Assunção,Defensive Midfield,2000-03-30,Brazil,2024
+10340,AVS,16149,Zé Luís,Centre-Forward,1991-01-24,Cape Verde Islands,2024
+10340,AVS,3977,Lucas Piazon,Attacking Midfield,1994-01-20,Brazil,2024
+10340,AVS,203426,Babatunde Akinsola,Left Winger,2003-03-10,Nigeria,2024
+10340,AVS,178772,Rodrigo Ribeiro,Centre-Forward,2005-04-28,Portugal,2024
+496,Rio Ave FC,45189,Jhonatan,Goalkeeper,1991-05-08,Brazil,2023
+496,Rio Ave FC,114150,Cezary Miszta,Goalkeeper,2001-10-30,Poland,2023
+496,Rio Ave FC,157261,Magrão,Goalkeeper,2000-05-15,Brazil,2023
+496,Rio Ave FC,185121,Lucas Flores,Goalkeeper,2002-07-04,Brazil,2023
+496,Rio Ave FC,178441,Cristian Castro,Defence,2001-01-25,Colombia,2023
+496,Rio Ave FC,178737,Patrick William,Defence,1997-06-03,Brazil,2023
+496,Rio Ave FC,194165,Aderlan,Defence,1989-04-09,Brazil,2023
+496,Rio Ave FC,204151,Jorge Karseladze,Defence,2005-03-18,Portugal,2023
+496,Rio Ave FC,213300,Hiago Bagarolo,Midfield,2002-01-28,Brazil,2023
+496,Rio Ave FC,81548,Úmaro Embaló,Right Winger,2001-05-06,Portugal,2023
+496,Rio Ave FC,74844,Renato Pantalon,Centre-Back,1997-10-27,Croatia,2023
+496,Rio Ave FC,52964,Abdul-Aziz Yakubu,Centre-Forward,1998-11-10,Ghana,2023
+496,Rio Ave FC,45422,João Teixeira,Attacking Midfield,1994-02-06,Portugal,2023
+496,Rio Ave FC,45290,Zé Manuel,Right Winger,1990-10-23,Portugal,2023
+496,Rio Ave FC,45233,Joca,Right Winger,1996-01-30,Portugal,2023
+496,Rio Ave FC,43696,Vitor Gomes,Defensive Midfield,1987-12-25,Portugal,2023
+496,Rio Ave FC,37490,Amine Oudrhiri,Defensive Midfield,1992-11-04,Morocco,2023
+496,Rio Ave FC,37357,André Pereira,Centre-Forward,1995-05-05,Portugal,2023
+496,Rio Ave FC,32952,Emmanuel Boateng,Left Winger,1996-05-23,Ghana,2023
+496,Rio Ave FC,20852,Ukra,Right Winger,1988-03-16,Portugal,2023
+496,Rio Ave FC,19922,Savio,Left-Back,1995-05-26,Brazil,2023
+496,Rio Ave FC,15990,Marious Vrousai,Right Winger,1998-07-02,Albania,2023
+496,Rio Ave FC,8846,Josué Sá,Centre-Back,1992-06-17,Portugal,2023
+496,Rio Ave FC,3252,Adrien Silva,Central Midfield,1989-03-15,Portugal,2023
+496,Rio Ave FC,214166,Amine Rehmi,Left Winger,2002-04-01,Netherlands,2023
+496,Rio Ave FC,185150,João Graça,Central Midfield,1995-06-18,Portugal,2023
+496,Rio Ave FC,185139,Miguel Nóbrega,Centre-Back,2000-04-17,Portugal,2023
+496,Rio Ave FC,185138,Fábio Ronaldo,Right Winger,2001-04-28,Portugal,2023
+496,Rio Ave FC,185116,Costinha,Right-Back,2000-03-26,Portugal,2023
+496,Rio Ave FC,166250,Helder Sá,Left-Back,2002-11-10,Portugal,2023
+496,Rio Ave FC,157203,Mateo Tanlongo,Defensive Midfield,2003-08-12,Argentina,2023
+498,Sporting Clube de Portugal,21,Adán,Goalkeeper,1987-05-13,Spain,2023
+498,Sporting Clube de Portugal,97893,Franco Israel,Goalkeeper,2000-04-22,Uruguay,2023
+498,Sporting Clube de Portugal,194860,Francisco Silva,Goalkeeper,2005-11-20,Portugal,2023
+498,Sporting Clube de Portugal,202181,Diogo Pinto,Goalkeeper,2004-06-18,Portugal,2023
+498,Sporting Clube de Portugal,145357,Gonçalo Inácio,Defence,2001-08-25,Portugal,2023
+498,Sporting Clube de Portugal,171383,Chico Lamba,Defence,2003-03-10,Portugal,2023
+498,Sporting Clube de Portugal,178768,Eduardo Quaresma,Defence,2002-03-02,Portugal,2023
+498,Sporting Clube de Portugal,191760,Ousmane Diomande,Defence,2003-12-04,Ivory Coast,2023
+498,Sporting Clube de Portugal,213107,Pedro,Defence,2004-11-16,Angola,2023
+498,Sporting Clube de Portugal,245259,Diogo Travassos,Defence,2004-03-31,Portugal,2023
+498,Sporting Clube de Portugal,251250,Miguel Menino,Midfield,2003-01-10,Portugal,2023
+498,Sporting Clube de Portugal,8279,Viktor Gyökeres,Offence,1998-06-04,Sweden,2023
+498,Sporting Clube de Portugal,37332,Trincão,Offence,1999-12-29,Portugal,2023
+498,Sporting Clube de Portugal,57131,Tiago Ferreira,Offence,2002-03-18,Portugal,2023
+498,Sporting Clube de Portugal,229421,Geovany Quenda,Offence,2007-04-30,Guinea-Bissau,2023
+498,Sporting Clube de Portugal,247303,Rafael Nel,Offence,2005-04-03,Portugal,2023
+498,Sporting Clube de Portugal,102336,Daniel Bragança,Central Midfield,1999-05-27,Portugal,2023
+498,Sporting Clube de Portugal,92050,Pedro Gonçalves,Attacking Midfield,1998-06-28,Portugal,2023
+498,Sporting Clube de Portugal,73998,Morten Hjulmand,Defensive Midfield,1999-06-25,Denmark,2023
+498,Sporting Clube de Portugal,49092,Hidemasa Morita,Central Midfield,1995-05-10,Japan,2023
+498,Sporting Clube de Portugal,45463,Nuno Santos,Left-Back,1995-02-13,Portugal,2023
+498,Sporting Clube de Portugal,45400,Paulinho,Centre-Forward,1992-11-09,Portugal,2023
+498,Sporting Clube de Portugal,45388,Ricardo Esgaio,Right-Back,1993-05-16,Portugal,2023
+498,Sporting Clube de Portugal,45210,Matheus Reis,Left-Back,1995-02-18,Brazil,2023
+498,Sporting Clube de Portugal,7874,Rafael Camacho,Right Winger,2000-05-22,Portugal,2023
+498,Sporting Clube de Portugal,7465,Jerry St. Juste,Centre-Back,1996-10-19,Netherlands,2023
+498,Sporting Clube de Portugal,3999,Marcus Edwards,Right Winger,1998-12-03,England,2023
+498,Sporting Clube de Portugal,3243,Luis Neto,Centre-Back,1988-05-26,Portugal,2023
+498,Sporting Clube de Portugal,3162,Sebastián Coates,Centre-Back,1990-10-07,Uruguay,2023
+498,Sporting Clube de Portugal,231218,Rafael,Centre-Back,2003-01-22,Brazil,2023
+498,Sporting Clube de Portugal,227767,João Muniz,Centre-Back,2005-06-26,Portugal,2023
+498,Sporting Clube de Portugal,176840,Ivan Fresneda,Right-Back,2004-09-28,Spain,2023
+498,Sporting Clube de Portugal,146110,Koba Koindredi,Central Midfield,2001-10-27,France,2023
+498,Sporting Clube de Portugal,128825,Geny Catamo,Right Winger,2001-01-26,Mozambique,2023
+503,FC Porto,13887,Samuel Portugal,Goalkeeper,1994-03-29,Brazil,2023
+503,FC Porto,37362,Diogo Costa,Goalkeeper,1999-09-19,Portugal,2023
+503,FC Porto,45217,Cláudio Ramos,Goalkeeper,1991-11-16,Portugal,2023
+503,FC Porto,250537,Gonçalo Ribeiro,Goalkeeper,2006-01-15,Portugal,2023
+503,FC Porto,39546,Jorge Sánchez,Defence,1997-12-10,Mexico,2023
+503,FC Porto,74794,Anthony Correia,Defence,1999-09-06,France,2023
+503,FC Porto,177044,Joao Mendes,Defence,2000-04-13,Portugal,2023
+503,FC Porto,227047,Martim Fernandes,Defence,2006-01-18,Portugal,2023
+503,FC Porto,250544,Gabriel Brás,Defence,2004-03-25,Portugal,2023
+503,FC Porto,37479,Stephen Eustáquio,Midfield,1996-12-21,Canada,2023
+503,FC Porto,43967,Wendel,Midfield,2000-08-02,Brazil,2023
+503,FC Porto,178761,Bernardo Folha,Midfield,2002-03-23,Portugal,2023
+503,FC Porto,3820,Mehdi Taremi,Offence,1992-07-18,Iran,2023
+503,FC Porto,4289,Daniel Namaso,Offence,2000-08-28,Cameroon,2023
+503,FC Porto,150791,Francisco Conceição,Offence,2002-12-14,Portugal,2023
+503,FC Porto,251113,Gonçalo Sousa,Offence,2006-06-30,Portugal,2023
+503,FC Porto,52950,Zé Pedro Figueiredo,Centre-Back,1997-06-06,Portugal,2023
+503,FC Porto,43591,Romário Baró,Central Midfield,2000-01-25,Portugal,2023
+503,FC Porto,37363,Galeno,Left Winger,1997-10-22,Brazil,2023
+503,FC Porto,34909,Fábio Cardoso,Centre-Back,1994-04-19,Portugal,2023
+503,FC Porto,15902,Marcano,Centre-Back,1987-06-23,Spain,2023
+503,FC Porto,11733,Toni Martínez,Centre-Forward,1997-06-30,Spain,2023
+503,FC Porto,10181,Pepe,Centre-Back,1983-02-26,Portugal,2023
+503,FC Porto,6475,Wendell,Left-Back,1993-07-20,Brazil,2023
+503,FC Porto,3442,Marko Grujić,Defensive Midfield,1996-04-13,Serbia,2023
+503,FC Porto,1166,Pepê,Left Winger,1997-02-24,Brazil,2023
+503,FC Porto,171986,Nico Gonzalez,Central Midfield,2002-01-03,Spain,2023
+503,FC Porto,171343,André Franco,Attacking Midfield,1998-04-12,Portugal,2023
+503,FC Porto,153629,Alan Varela,Defensive Midfield,2001-07-04,Argentina,2023
+503,FC Porto,151363,Otavio Ataide,Centre-Back,2002-04-21,Brazil,2023
+503,FC Porto,131260,Evanilson,Centre-Forward,1999-10-06,Brazil,2023
+503,FC Porto,126149,Gonçalo Borges,Right Winger,2001-03-29,Portugal,2023
+503,FC Porto,125160,Zaidu Sanusi,Left-Back,1997-06-13,Nigeria,2023
+503,FC Porto,83223,Ivan Jaime Pajuelo,Attacking Midfield,2000-09-26,Spain,2023
+503,FC Porto,82126,João Mário Lopes,Right-Back,2000-01-03,Portugal,2023
+582,GD Estoril Praia,115132,Marcelo Carne,Goalkeeper,1990-02-06,Brazil,2023
+582,GD Estoril Praia,165613,Alan Gobetti,Goalkeeper,2001-02-12,Brazil,2023
+582,GD Estoril Praia,171325,Daniel Figueira,Goalkeeper,1998-07-20,Portugal,2023
+582,GD Estoril Praia,213111,Diogo Dias,Goalkeeper,2003-06-17,Portugal,2023
+582,GD Estoril Praia,177521,Finn Dicke,Defence,2004-09-14,Netherlands,2023
+582,GD Estoril Praia,213136,Wagner Pina,Defence,2002-11-03,Cape Verde Islands,2023
+582,GD Estoril Praia,5907,Alefe Santos,Midfield,1995-03-01,Brazil,2023
+582,GD Estoril Praia,160865,Francisco Pereira,Midfield,2002-02-06,Portugal,2023
+582,GD Estoril Praia,182034,Duarte Carvalho,Midfield,2002-05-30,Portugal,2023
+582,GD Estoril Praia,213118,Rodrigo Ramos,Midfield,2003-11-13,Portugal,2023
+582,GD Estoril Praia,248958,Fabrício Garcia,Offence,2001-05-04,Cape Verde Islands,2023
+582,GD Estoril Praia,151521,Rodrigo Gomes,Right Midfield,2003-07-07,Portugal,2023
+582,GD Estoril Praia,151071,Bernardo Vital,Centre-Back,2000-12-29,Portugal,2023
+582,GD Estoril Praia,150912,Tiago Araújo,Left-Back,2001-03-27,Portugal,2023
+582,GD Estoril Praia,147022,Nemanja Jović,Left Winger,2002-08-08,Serbia,2023
+582,GD Estoril Praia,141357,Alejandro Marqués,Centre-Forward,2000-08-04,Venezuela,2023
+582,GD Estoril Praia,138223,Michel Costa,Defensive Midfield,2001-12-20,Brazil,2023
+582,GD Estoril Praia,135650,Jordan Holsgrove,Defensive Midfield,1999-09-10,Scotland,2023
+582,GD Estoril Praia,126150,Mor Ndiaye,Defensive Midfield,2000-11-22,Senegal,2023
+582,GD Estoril Praia,74577,Harouna Sy,Left-Back,1996-03-30,France,2023
+582,GD Estoril Praia,37670,Pedro Álvaro,Centre-Back,2000-03-02,Portugal,2023
+582,GD Estoril Praia,37559,Heriberto Tavares,Right Winger,1997-02-19,Portugal,2023
+582,GD Estoril Praia,37484,João Basso,Centre-Back,1997-01-13,Brazil,2023
+582,GD Estoril Praia,32932,Erick Cabaco,Centre-Back,1995-04-19,Uruguay,2023
+582,GD Estoril Praia,14003,Cassiano,Centre-Forward,1989-06-16,Brazil,2023
+582,GD Estoril Praia,7833,Eliaquim Mangala,Centre-Back,1991-02-13,France,2023
+582,GD Estoril Praia,636,Rafik Guitane,Right Winger,1999-05-26,France,2023
+582,GD Estoril Praia,190876,Joao Marques,Left Winger,2002-02-13,Portugal,2023
+582,GD Estoril Praia,187216,Mateus Fernandes,Central Midfield,2004-07-10,Portugal,2023
+582,GD Estoril Praia,170694,Vinicius Zanocelo,Central Midfield,2001-01-30,Brazil,2023
+582,GD Estoril Praia,159739,Raúl Parra Artal,Right-Back,1999-11-26,Spain,2023
+582,GD Estoril Praia,153954,Ricardo Fernandes,Left-Back,2002-08-28,Portugal,2023
+582,GD Estoril Praia,151941,Volnei Feltes,Centre-Back,2000-04-15,Brazil,2023
+583,Moreirense FC,45260,Caio Secco,Goalkeeper,1990-12-22,Brazil,2023
+583,Moreirense FC,79821,Mika,Goalkeeper,1991-03-08,Switzerland,2023
+583,Moreirense FC,117677,Kewin,Goalkeeper,1995-01-25,Brazil,2023
+583,Moreirense FC,156631,Jeremy Antonisse,Offence,2002-03-29,Curaçao,2023
+583,Moreirense FC,246564,Carlão,Centre-Back,2003-08-19,Brazil,2023
+583,Moreirense FC,246222,Miguel Rebelo,Central Midfield,2003-09-13,Portugal,2023
+583,Moreirense FC,245506,Luis Asué,Centre-Forward,2001-07-09,Equatorial Guinea,2023
+583,Moreirense FC,213097,Gilberto Batista,Centre-Back,2003-12-29,Guinea-Bissau,2023
+583,Moreirense FC,204175,Rodrigo Macedo,Centre-Forward,2003-07-09,Portugal,2023
+583,Moreirense FC,188084,Dinis Pinto,Right-Back,2000-08-24,Portugal,2023
+583,Moreirense FC,172102,Matheus Aiás,Centre-Forward,1996-12-30,Brazil,2023
+583,Moreirense FC,171328,Fabiano Silva,Right-Back,2000-03-14,Brazil,2023
+583,Moreirense FC,169237,Alanzinho,Attacking Midfield,2000-03-08,Brazil,2023
+583,Moreirense FC,154093,Hernâni Infande,Right Winger,2001-04-03,Portugal,2023
+583,Moreirense FC,150786,Rúben Ramos,Defensive Midfield,1999-03-25,Portugal,2023
+583,Moreirense FC,136603,Pedro Aparício,Attacking Midfield,1995-08-22,Portugal,2023
+583,Moreirense FC,122365,Vinicius Mingotti,Centre-Forward,2000-01-07,Brazil,2023
+583,Moreirense FC,118836,Gonçalo Franco,Central Midfield,2000-11-17,Portugal,2023
+583,Moreirense FC,64587,Godfried Frimpong,Left-Back,1999-04-21,Netherlands,2023
+583,Moreirense FC,45440,Marcelo,Centre-Back,1989-07-27,Brazil,2023
+583,Moreirense FC,43699,Ponck,Centre-Back,1995-01-13,Cape Verde Islands,2023
+583,Moreirense FC,43640,Pedro Amador,Left-Back,1998-12-18,Portugal,2023
+583,Moreirense FC,39959,Lawrence Ofori,Central Midfield,1998-06-28,Ghana,2023
+583,Moreirense FC,37327,Alhassane Sylla,Right-Back,1995-08-24,Senegal,2023
+583,Moreirense FC,37165,João Camacho,Left Winger,1994-06-23,Portugal,2023
+583,Moreirense FC,33864,Kobamelo Kodisang,Right Winger,1999-08-28,South Africa,2023
+583,Moreirense FC,30494,André Castro,Central Midfield,1988-04-02,Portugal,2023
+583,Moreirense FC,18690,Madson,Left Winger,1999-08-26,Brazil,2023
+583,Moreirense FC,13839,Maracás,Centre-Back,1994-04-27,Brazil,2023
+712,FC Arouca,1527,Thiago,Goalkeeper,1996-06-12,Brazil,2023
+712,FC Arouca,100703,Ignacio De Arruabarrena,Goalkeeper,1997-01-16,Uruguay,2023
+712,FC Arouca,102210,João Valido,Goalkeeper,2000-03-03,Portugal,2023
+712,FC Arouca,3880,Cristo González,Offence,1997-10-24,Spain,2023
+712,FC Arouca,227060,Ricardo Ferreira,Offence,2005-12-10,Portugal,2023
+712,FC Arouca,192545,Vladislav Morozov,Centre-Forward,2000-10-12,Belarus,2023
+712,FC Arouca,191142,Pedro Santos,Central Midfield,2000-10-12,Portugal,2023
+712,FC Arouca,180178,Puche,Left Winger,2001-04-30,Spain,2023
+712,FC Arouca,170423,Robson Bambu,Centre-Back,1997-11-12,Brazil,2023
+712,FC Arouca,167405,Eboue Kouassi,Defensive Midfield,1997-12-13,Ivory Coast,2023
+712,FC Arouca,165616,Vitinho,Central Midfield,2000-01-04,Brazil,2023
+712,FC Arouca,153734,Matí­as Rocha,Centre-Back,2001-02-13,Uruguay,2023
+712,FC Arouca,146361,Weverson,Left-Back,2000-07-05,Brazil,2023
+712,FC Arouca,143641,Alfonso Trezza,Right Winger,1999-06-22,Uruguay,2023
+712,FC Arouca,137819,Bogdan Milovanov,Right-Back,1998-04-19,Ukraine,2023
+712,FC Arouca,130345,Morlaye Sylla,Left Winger,1998-07-27,Guinea,2023
+712,FC Arouca,98739,Yanis Hamache,Left-Back,1999-07-13,Algeria,2023
+712,FC Arouca,83563,Francisco Montero,Centre-Back,1999-01-14,Spain,2023
+712,FC Arouca,79675,Nino Galović,Centre-Back,1992-07-06,Croatia,2023
+712,FC Arouca,53121,Tiago Esgaio,Right-Back,1995-08-01,Portugal,2023
+712,FC Arouca,45451,Pedro Moreira,Central Midfield,1989-03-13,Portugal,2023
+712,FC Arouca,37246,Moses Yaw,Defensive Midfield,1999-01-07,Ghana,2023
+712,FC Arouca,32949,Jason,Right Winger,1994-07-06,Spain,2023
+712,FC Arouca,32780,Rafa Mújica,Centre-Forward,1998-10-29,Spain,2023
+712,FC Arouca,21132,David Simão,Central Midfield,1990-05-15,France,2023
+712,FC Arouca,18653,Quaresma,Left-Back,1996-08-22,Brazil,2023
+712,FC Arouca,15870,Oriol Busquets,Defensive Midfield,1999-01-20,Spain,2023
+712,FC Arouca,9085,Yusuf Lawal,Left Winger,1998-03-23,Nigeria,2023
+810,Boavista FC,1530,César,Goalkeeper,1992-01-27,Brazil,2023
+810,Boavista FC,124829,João Gonçalves,Goalkeeper,2000-11-05,Portugal,2023
+810,Boavista FC,213121,Luís Henrique,Goalkeeper,2004-11-17,Brazil,2023
+810,Boavista FC,221334,Tomé,Goalkeeper,2006-12-16,Portugal,2023
+810,Boavista FC,213087,Marco Ribeiro,Midfield,2005-06-14,Portugal,2023
+810,Boavista FC,213083,Gonçalo Almeida,Right-Back,2003-05-06,Portugal,2023
+810,Boavista FC,206696,Tiago Machado,Centre-Forward,2004-04-02,Portugal,2023
+810,Boavista FC,188089,Joel Silva,Central Midfield,2003-02-11,Portugal,2023
+810,Boavista FC,188088,Bruno Onyemaechi,Left-Back,1999-04-03,Nigeria,2023
+810,Boavista FC,186482,Julio Dabo,Left-Back,2004-03-13,Portugal,2023
+810,Boavista FC,172418,Martim Tavares,Centre-Forward,2003-11-10,Portugal,2023
+810,Boavista FC,171361,Pedro Malheiro,Right-Back,2001-01-21,Portugal,2023
+810,Boavista FC,171345,Berna,Left Winger,2003-09-15,Angola,2023
+810,Boavista FC,145311,Luís Santos,Right Winger,2000-01-20,Portugal,2023
+810,Boavista FC,140290,Róbert Boženík,Centre-Forward,1999-11-18,Slovakia,2023
+810,Boavista FC,118733,Bruno Lourenço,Attacking Midfield,1998-02-02,Portugal,2023
+810,Boavista FC,106030,Masaki Watai,Attacking Midfield,1999-07-18,Japan,2023
+810,Boavista FC,80871,Ibrahima Camara,Defensive Midfield,1999-01-25,Guinea,2023
+810,Boavista FC,45300,Vincent Sasso,Centre-Back,1991-02-16,France,2023
+810,Boavista FC,45141,Filipe Ferreira,Left-Back,1990-09-27,Portugal,2023
+810,Boavista FC,42575,Ilija Vukotić,Defensive Midfield,1999-01-07,Montenegro,2023
+810,Boavista FC,37672,Miguel Reisinho,Central Midfield,1999-04-09,Portugal,2023
+810,Boavista FC,37096,Gaïus Makouta,Central Midfield,1997-07-25,Congo,2023
+810,Boavista FC,32069,Salvador Agra,Right Winger,1991-11-11,Portugal,2023
+810,Boavista FC,28243,Rodrigo Abascal,Centre-Back,1994-01-14,Uruguay,2023
+810,Boavista FC,11702,Sebastián Pérez,Defensive Midfield,1993-03-29,Colombia,2023
+810,Boavista FC,3393,Chidozie Awaziem,Centre-Back,1997-01-01,Nigeria,2023
+1103,GD Chaves,82991,Hugo Souza,Goalkeeper,1999-01-31,Brazil,2023
+1103,GD Chaves,185131,Rodrigo Moura,Goalkeeper,1996-01-25,Brazil,2023
+1103,GD Chaves,204220,Gonçalo Filipe,Goalkeeper,2000-04-30,Portugal,2023
+1103,GD Chaves,13105,Ygor Nogueira,Defence,1995-03-27,Brazil,2023
+1103,GD Chaves,24829,Jorge Carcelén,Defence,1995-05-01,Brazil,2023
+1103,GD Chaves,37524,Thibang Phete,Defence,1994-04-04,South Africa,2023
+1103,GD Chaves,45224,Júnior Pius,Defence,1995-12-20,Nigeria,2023
+1103,GD Chaves,45409,Vasco Fernandes,Defence,1986-11-12,Portugal,2023
+1103,GD Chaves,45507,Carraça,Defence,1993-03-01,Portugal,2023
+1103,GD Chaves,64369,Steven Vitória,Defence,1987-01-11,Canada,2023
+1103,GD Chaves,157172,Bruno Rodrigues,Defence,2001-06-08,Portugal,2023
+1103,GD Chaves,182073,Sandro Cruz,Defence,2001-05-12,Angola,2023
+1103,GD Chaves,185122,João Correia,Defence,1996-09-05,Cape Verde Islands,2023
+1103,GD Chaves,185151,Habib Sylla,Defence,1999-02-12,Ivory Coast,2023
+1103,GD Chaves,9699,Kelechi Nwakali,Midfield,1998-06-05,Nigeria,2023
+1103,GD Chaves,15887,Rúben Ribeiro,Midfield,1987-08-01,Portugal,2023
+1103,GD Chaves,32995,Raphael Guzzo,Midfield,1995-01-06,Portugal,2023
+1103,GD Chaves,37255,Guima,Midfield,1995-11-14,Mozambique,2023
+1103,GD Chaves,185126,Benny,Midfield,2000-03-27,Portugal,2023
+1103,GD Chaves,185143,Hélder Morim,Midfield,2001-05-14,Portugal,2023
+1103,GD Chaves,213081,Pedro Pinho,Midfield,2000-04-06,Portugal,2023
+1103,GD Chaves,32309,Héctor Hernández,Offence,1995-09-14,Spain,2023
+1103,GD Chaves,115363,Paulo Victor,Offence,2001-03-21,Brazil,2023
+1103,GD Chaves,145314,Leandro Sanca,Offence,2000-01-04,Guinea-Bissau,2023
+1103,GD Chaves,213076,Rodrigo Melro,Offence,2004-03-14,Portugal,2023
+1103,GD Chaves,165314,Dario Essugo,Defensive Midfield,2005-03-14,Portugal,2023
+1903,Sport Lisboa e Benfica,111481,Anatolii Trubin,Goalkeeper,2001-08-01,Ukraine,2023
+1903,Sport Lisboa e Benfica,152500,Leobrian Kokubo,Goalkeeper,2001-01-23,Japan,2023
+1903,Sport Lisboa e Benfica,153846,Samuel Soares,Goalkeeper,2002-06-15,Portugal,2023
+1903,Sport Lisboa e Benfica,192010,Andre Gomes,Goalkeeper,2004-10-20,Portugal,2023
+1903,Sport Lisboa e Benfica,3205,Nicolás Otamendi,Defence,1988-02-12,Argentina,2023
+1903,Sport Lisboa e Benfica,177842,Tomas Araujo,Defence,2002-05-16,Portugal,2023
+1903,Sport Lisboa e Benfica,179007,Gustavo Marques,Defence,2001-10-09,Brazil,2023
+1903,Sport Lisboa e Benfica,182020,Álvaro Carreras,Defence,2003-03-23,Spain,2023
+1903,Sport Lisboa e Benfica,220410,Adrian Bajrami,Defence,2002-04-05,Switzerland,2023
+1903,Sport Lisboa e Benfica,249393,Diogo Spencer,Defence,2004-04-17,Portugal,2023
+1903,Sport Lisboa e Benfica,7474,Orkun Kökçü,Midfield,2000-12-29,Turkey,2023
+1903,Sport Lisboa e Benfica,38088,Fredrik Aursnes,Midfield,1995-12-10,Norway,2023
+1903,Sport Lisboa e Benfica,153953,Gerson Sousa,Midfield,2002-05-10,Portugal,2023
+1903,Sport Lisboa e Benfica,190877,Joao Neves,Midfield,2004-09-27,Portugal,2023
+1903,Sport Lisboa e Benfica,204143,Hugo Félix,Midfield,2004-03-03,Portugal,2023
+1903,Sport Lisboa e Benfica,246194,Diogo Prioste,Midfield,2004-03-26,Portugal,2023
+1903,Sport Lisboa e Benfica,16748,Rafa Silva,Offence,1993-05-17,Portugal,2023
+1903,Sport Lisboa e Benfica,251296,João Rêgo,Offence,2005-06-20,Portugal,2023
+1903,Sport Lisboa e Benfica,252836,Gustavo Varela,Offence,2005-01-30,Portugal,2023
+1903,Sport Lisboa e Benfica,133573,Tiago Gouveia,Right Winger,2001-06-18,Portugal,2023
+1903,Sport Lisboa e Benfica,129381,Casper Tengstedt,Centre-Forward,2000-06-01,Denmark,2023
+1903,Sport Lisboa e Benfica,122016,Benjamín Rollheiser,Right Winger,2000-03-24,Argentina,2023
+1903,Sport Lisboa e Benfica,119596,Morato,Centre-Back,2001-06-30,Brazil,2023
+1903,Sport Lisboa e Benfica,70583,Alexander Bah,Right-Back,1997-12-09,Denmark,2023
+1903,Sport Lisboa e Benfica,37560,Florentino,Defensive Midfield,1999-08-19,Portugal,2023
+1903,Sport Lisboa e Benfica,7571,David Neres,Right Winger,1997-03-03,Brazil,2023
+1903,Sport Lisboa e Benfica,3253,João Mário,Central Midfield,1993-01-19,Portugal,2023
+1903,Sport Lisboa e Benfica,3210,Ángel di María,Right Winger,1988-02-14,Argentina,2023
+1903,Sport Lisboa e Benfica,1723,Arthur Cabral,Centre-Forward,1998-04-25,Brazil,2023
+1903,Sport Lisboa e Benfica,357,Juan Bernat,Left-Back,1993-03-01,Spain,2023
+1903,Sport Lisboa e Benfica,185610,Antonio Silva,Centre-Back,2003-10-31,Portugal,2023
+1903,Sport Lisboa e Benfica,182123,Gianluca Prestianni,Right Winger,2006-01-31,Argentina,2023
+1903,Sport Lisboa e Benfica,146758,Marcos Leonardo Almeida,Centre-Forward,2003-05-02,Brazil,2023
+5531,FC Famalicão,37556,Ivan Zlobin,Goalkeeper,1997-03-07,Russia,2023
+5531,FC Famalicão,171387,Hugo Cunha,Goalkeeper,2001-09-06,Portugal,2023
+5531,FC Famalicão,178718,Luiz Junior,Goalkeeper,2001-01-14,Brazil,2023
+5531,FC Famalicão,218080,Zé Henrique,Goalkeeper,2004-10-23,Brazil,2023
+5531,FC Famalicão,213127,Hugo Oliveira,Defence,2004-08-26,Portugal,2023
+5531,FC Famalicão,213135,Duarte Oliveira,Defence,2005-03-14,Portugal,2023
+5531,FC Famalicão,8919,José Luis Rodríguez,Midfield,1998-06-19,Panama,2023
+5531,FC Famalicão,11679,Lucas Martínez,Midfield,1996-05-10,Spain,2023
+5531,FC Famalicão,213093,Martim Almeida,Midfield,2005-03-19,Portugal,2023
+5531,FC Famalicão,213101,João Santos,Midfield,2003-06-30,Portugal,2023
+5531,FC Famalicão,213102,Rodrigo Ribeiro,Midfield,2006-05-26,Portugal,2023
+5531,FC Famalicão,144471,João Neto,Offence,2003-05-21,Brazil,2023
+5531,FC Famalicão,204147,Mauro Ribeiro,Offence,2002-10-04,Portugal,2023
+5531,FC Famalicão,213112,Leonardo Oliveira,Offence,2005-02-08,Sweden,2023
+5531,FC Famalicão,157141,Tom Lacoux,Defensive Midfield,2002-01-25,France,2023
+5531,FC Famalicão,154741,Óscar Aranda,Left Winger,2002-04-29,Spain,2023
+5531,FC Famalicão,148136,Mirko Topić,Defensive Midfield,2001-02-05,Serbia,2023
+5531,FC Famalicão,142919,Florian Danho Seke,Centre-Forward,2000-06-21,France,2023
+5531,FC Famalicão,141367,Nathan,Right-Back,2001-09-05,Brazil,2023
+5531,FC Famalicão,137985,Chiquinho,Left Winger,2000-02-05,Portugal,2023
+5531,FC Famalicão,116188,Gustavo Assunção,Defensive Midfield,2000-03-30,Brazil,2023
+5531,FC Famalicão,98611,Moura,Left-Back,1999-08-16,Portugal,2023
+5531,FC Famalicão,97367,Justin de Haas,Centre-Back,2000-02-01,Netherlands,2023
+5531,FC Famalicão,43565,Filipe Soares,Attacking Midfield,1999-05-20,Portugal,2023
+5531,FC Famalicão,43464,Enea Mihaj,Centre-Back,1998-07-05,Albania,2023
+5531,FC Famalicão,28129,Jhonder Cádiz,Centre-Forward,1995-07-29,Venezuela,2023
+5531,FC Famalicão,21166,Riccieli,Centre-Back,1998-09-17,Brazil,2023
+5531,FC Famalicão,8511,Zaydou Youssouf,Central Midfield,1999-07-11,France,2023
+5531,FC Famalicão,192907,Ian Custodio,Left-Back,2003-04-16,Brazil,2023
+5531,FC Famalicão,187280,Gustavo Sa,Attacking Midfield,2004-11-11,Portugal,2023
+5531,FC Famalicão,185127,Théo Fonseca,Right Winger,2000-06-11,Portugal,2023
+5531,FC Famalicão,178652,Alex Dobre,Right Winger,1998-08-30,Romania,2023
+5531,FC Famalicão,177322,Henrique Araujo,Centre-Forward,2002-01-19,Portugal,2023
+5531,FC Famalicão,169412,Marcos Vinicios,Left Winger,2001-02-23,Brazil,2023
+5531,FC Famalicão,168613,Otso Liimatta,Attacking Midfield,2004-07-10,Finland,2023
+5533,Gil Vicente FC,49241,Stanislav Kritsyuk,Goalkeeper,1990-12-01,Russia,2023
+5533,Gil Vicente FC,81896,Andrew,Goalkeeper,2001-07-01,Brazil,2023
+5533,Gil Vicente FC,119462,Vinicius,Goalkeeper,1997-06-19,Brazil,2023
+5533,Gil Vicente FC,157154,Brian Araújo,Goalkeeper,2000-04-29,Portugal,2023
+5533,Gil Vicente FC,179830,Lipe,Midfield,2002-02-19,Brazil,2023
+5533,Gil Vicente FC,213075,Peixinho,Midfield,2004-05-23,Portugal,2023
+5533,Gil Vicente FC,213096,Miro,Midfield,2003-04-22,Angola,2023
+5533,Gil Vicente FC,213124,Cláudio Araújo,Midfield,2003-02-22,Portugal,2023
+5533,Gil Vicente FC,213137,Ricardinho,Midfield,2005-12-27,Portugal,2023
+5533,Gil Vicente FC,119530,Ali Alipour,Offence,1995-11-11,Iran,2023
+5533,Gil Vicente FC,213095,Miguel Sanz,Offence,2005-02-17,UA Emirates,2023
+5533,Gil Vicente FC,221241,Jucelio,Offence,,Brazil,2023
+5533,Gil Vicente FC,246298,Marlon Maranhão,Offence,2002-08-07,Brazil,2023
+5533,Gil Vicente FC,165143,Martim Neto,Central Midfield,2003-01-14,Portugal,2023
+5533,Gil Vicente FC,141483,José Carlos,Right-Back,1998-07-31,Portugal,2023
+5533,Gil Vicente FC,141380,Kazu,Left-Back,2000-03-18,Brazil,2023
+5533,Gil Vicente FC,140940,Gabriel Pereira,Centre-Back,2000-05-07,Brazil,2023
+5533,Gil Vicente FC,127657,Félix Correia,Left Winger,2001-01-22,Portugal,2023
+5533,Gil Vicente FC,114011,Jesús Castillo,Defensive Midfield,2001-06-11,Peru,2023
+5533,Gil Vicente FC,45486,Pedro Tiba,Central Midfield,1988-08-31,Portugal,2023
+5533,Gil Vicente FC,45365,Rúben Fernandes,Centre-Back,1986-05-06,Portugal,2023
+5533,Gil Vicente FC,44804,Kanya Fujimoto,Attacking Midfield,1999-07-01,Japan,2023
+5533,Gil Vicente FC,37562,Alex Pinto,Right-Back,1998-07-08,Portugal,2023
+5533,Gil Vicente FC,37160,Murilo,Right Winger,1994-10-31,Brazil,2023
+5533,Gil Vicente FC,33160,Maxime Dominguez,Attacking Midfield,1996-02-01,Switzerland,2023
+5533,Gil Vicente FC,9125,Jonathan Buatu,Centre-Back,1993-09-27,Belgium,2023
+5533,Gil Vicente FC,213109,Kiko Vilas Boas,Left-Back,1999-09-08,Portugal,2023
+5533,Gil Vicente FC,204136,Afonso Moreira,Left Winger,2005-03-19,Portugal,2023
+5533,Gil Vicente FC,202282,Depu,Centre-Forward,2000-01-08,Angola,2023
+5533,Gil Vicente FC,189797,Roan Wilson,Central Midfield,2002-05-01,Costa Rica,2023
+5533,Gil Vicente FC,188083,Miguel Monteiro,Centre-Forward,2003-07-24,Portugal,2023
+5533,Gil Vicente FC,187384,Andre Simoes,Attacking Midfield,2003-08-17,Portugal,2023
+5533,Gil Vicente FC,183363,Mory Gbane,Defensive Midfield,2000-12-25,Ivory Coast,2023
+5533,Gil Vicente FC,181642,Thomas,Right-Back,2002-01-14,Brazil,2023
+5533,Gil Vicente FC,178767,Leonardo Buta,Left-Back,2002-06-05,Portugal,2023
+5533,Gil Vicente FC,177301,Tidjany Touré,Left Winger,2002-07-15,France,2023
+5543,Vitória SC,16734,Bruno Varela,Goalkeeper,1994-11-04,Portugal,2023
+5543,Vitória SC,45324,Charles Silva,Goalkeeper,1994-02-04,Brazil,2023
+5543,Vitória SC,204127,Gui,Goalkeeper,2006-05-13,Portugal,2023
+5543,Vitória SC,204176,Rafael Oliveira,Goalkeeper,2003-09-28,Portugal,2023
+5543,Vitória SC,145346,Telmo Arcanjo,Midfield,2001-06-21,Cape Verde Islands,2023
+5543,Vitória SC,245842,Ronaldo Afonso,Offence,2000-07-11,São Tomé and Príncipe,2023
+5543,Vitória SC,194008,Manu Silva,Defensive Midfield,2001-06-12,Portugal,2023
+5543,Vitória SC,192626,Kaio César,Right Winger,2004-02-15,Brazil,2023
+5543,Vitória SC,191013,Goncalo Nogueira,Central Midfield,2003-12-28,Portugal,2023
+5543,Vitória SC,188314,Jota,Left Winger,2002-07-22,Portugal,2023
+5543,Vitória SC,188094,Zé Carlos,Right-Back,2001-10-30,Portugal,2023
+5543,Vitória SC,187537,Afonso Freitas,Left-Back,2000-04-07,Portugal,2023
+5543,Vitória SC,184496,Alberto Baio,Right-Back,2003-09-29,Portugal,2023
+5543,Vitória SC,171367,Tomás Händel,Defensive Midfield,2000-11-27,Portugal,2023
+5543,Vitória SC,171351,Miguel Magalhães,Right-Back,2002-11-16,Portugal,2023
+5543,Vitória SC,159694,Adrián Butzke,Centre-Forward,1999-03-30,Spain,2023
+5543,Vitória SC,136334,Jota Silva,Left Winger,1999-08-01,Portugal,2023
+5543,Vitória SC,130047,Tomás Ribeiro,Centre-Back,1999-04-30,Portugal,2023
+5543,Vitória SC,127292,Mamadou Tounkara,Centre-Back,2001-12-14,Mali,2023
+5543,Vitória SC,53190,Ricardo Mangas,Left-Back,1998-03-19,Portugal,2023
+5543,Vitória SC,45274,Tiago Silva,Attacking Midfield,1993-06-02,Portugal,2023
+5543,Vitória SC,37717,João Mendes,Attacking Midfield,1994-10-21,Portugal,2023
+5543,Vitória SC,37558,Nuno Santos,Attacking Midfield,1999-03-02,Portugal,2023
+5543,Vitória SC,37360,Jorge Fernandes,Centre-Back,1997-04-02,Portugal,2023
+5543,Vitória SC,32343,Mikel Villanueva,Centre-Back,1993-04-14,Venezuela,2023
+5543,Vitória SC,23245,Toni Borevković,Centre-Back,1997-06-18,Croatia,2023
+5543,Vitória SC,15908,André André,Central Midfield,1989-08-26,Portugal,2023
+5543,Vitória SC,4003,Nélson Oliveira,Centre-Forward,1991-08-08,Portugal,2023
+5543,Vitória SC,1771,Bruno Gaspar,Right-Back,1993-04-21,Angola,2023
+5589,FC Vizela,6844,Fabijan Buntić,Goalkeeper,1997-02-24,Croatia,2023
+5589,FC Vizela,30826,Francesco Ruberto,Goalkeeper,1993-03-19,Switzerland,2023
+5589,FC Vizela,213080,Nikola Bursać,Goalkeeper,2001-09-11,Serbia,2023
+5589,FC Vizela,12759,Anderson Jesus,Defence,1995-03-02,Brazil,2023
+5589,FC Vizela,16580,João Escoval,Defence,1997-05-08,Portugal,2023
+5589,FC Vizela,28976,Orest Lebedenko,Defence,1998-09-23,Ukraine,2023
+5589,FC Vizela,124716,Jota Gonçalves,Defence,2000-06-17,Portugal,2023
+5589,FC Vizela,138226,Matheus Pereira,Defence,2000-12-21,Brazil,2023
+5589,FC Vizela,157448,Hugo Oliveira,Defence,2002-02-10,Portugal,2023
+5589,FC Vizela,169291,Tomas Silva,Defence,1999-10-15,Portugal,2023
+5589,FC Vizela,204177,Tiago Brito,Defence,2004-04-16,Portugal,2023
+5589,FC Vizela,245346,Messias,Defence,2005-12-17,Angola,2023
+5589,FC Vizela,8165,Jason Lokilo,Midfield,1998-09-17,Belgium,2023
+5589,FC Vizela,15920,Bruno Costa,Midfield,1997-04-19,Portugal,2023
+5589,FC Vizela,45514,Samu,Midfield,1996-04-21,Portugal,2023
+5589,FC Vizela,81433,Alberto Soro,Midfield,1999-03-09,Spain,2023
+5589,FC Vizela,124280,Matías Lacava,Midfield,2002-10-10,Venezuela,2023
+5589,FC Vizela,144694,Abdul Awudu,Midfield,2001-01-10,Ghana,2023
+5589,FC Vizela,166752,Osama Rashid,Midfield,1992-01-13,Iraq,2023
+5589,FC Vizela,213079,Diogo Nascimento,Midfield,2002-11-02,Portugal,2023
+5589,FC Vizela,213181,Domingos Quina,Midfield,1999-11-18,Portugal,2023
+5589,FC Vizela,216738,Aleksandar Busnić,Midfield,1997-12-04,Serbia,2023
+5589,FC Vizela,244843,Rodrigo Ramos,Midfield,2004-02-17,Portugal,2023
+5589,FC Vizela,952,Dylan Saint-Louis,Offence,1995-04-26,Congo,2023
+5589,FC Vizela,81736,Samuel Essende,Offence,1998-01-23,DR Congo,2023
+5589,FC Vizela,171322,Ventura,Offence,2002-06-19,Portugal,2023
+5589,FC Vizela,184165,Sava Petrov,Offence,1998-06-18,Serbia,2023
+5589,FC Vizela,210434,Amadou Ba-Sy,Offence,2001-06-08,France,2023
+5589,FC Vizela,180136,Pedro Ortiz,Central Midfield,2000-08-19,Spain,2023
+5589,FC Vizela,167661,Alex Mendez,Central Midfield,2000-09-06,USA,2023
+5601,Portimonense SC,3262,Kōsuke Nakamura,Goalkeeper,1995-02-27,Japan,2023
+5601,Portimonense SC,12607,Vinicius Silvestre,Goalkeeper,1994-03-28,Brazil,2023
+5601,Portimonense SC,148420,João Victor,Goalkeeper,2000-10-23,Brazil,2023
+5601,Portimonense SC,181442,Gabriel Souza,Goalkeeper,2004-08-03,Brazil,2023
+5601,Portimonense SC,2905,Moustapha Seck,Defence,1996-02-23,Spain,2023
+5601,Portimonense SC,11197,Pedrão,Defence,1997-05-03,Brazil,2023
+5601,Portimonense SC,171346,Filipe Relvas,Defence,1999-09-20,Portugal,2023
+5601,Portimonense SC,176837,Rafael Alcobia,Defence,2003-06-22,Portugal,2023
+5601,Portimonense SC,181603,Igor Formiga,Defence,1999-01-08,Brazil,2023
+5601,Portimonense SC,185120,Gonçalo Costa,Defence,2000-02-18,Portugal,2023
+5601,Portimonense SC,192269,Alemao,Defence,2002-11-06,Brazil,2023
+5601,Portimonense SC,206232,Thiago Dombroski,Defence,2002-06-20,Brazil,2023
+5601,Portimonense SC,213122,Guga,Defence,2003-10-23,Portugal,2023
+5601,Portimonense SC,250438,Ye-Chan Lee,Defence,2005-05-23,South Korea,2023
+5601,Portimonense SC,1422,Nonoca,Midfield,1998-05-19,Brazil,2023
+5601,Portimonense SC,6348,Hildeberto,Midfield,1996-03-02,Cape Verde Islands,2023
+5601,Portimonense SC,9243,Carlinhos,Midfield,1994-06-22,Brazil,2023
+5601,Portimonense SC,24561,Ronie Carrillo,Midfield,1996-09-08,Ecuador,2023
+5601,Portimonense SC,64717,Paulo Estrela Moreira,Midfield,1999-02-20,Portugal,2023
+5601,Portimonense SC,74154,Rodrigo Martins,Midfield,1998-09-15,Portugal,2023
+5601,Portimonense SC,114355,Luquinha,Midfield,2000-10-03,Brazil,2023
+5601,Portimonense SC,126160,Ângelo Taveira,Midfield,2000-05-13,Portugal,2023
+5601,Portimonense SC,157834,Steve Mvoué,Midfield,2002-02-02,Cameroon,2023
+5601,Portimonense SC,160850,Ivan Pavlic,Midfield,2001-11-10,Belgium,2023
+5601,Portimonense SC,185117,Yong-hak Kim,Midfield,2003-05-20,South Korea,2023
+5601,Portimonense SC,192622,Luan Campos,Midfield,2002-03-19,Brazil,2023
+5601,Portimonense SC,192630,Zinho,Midfield,2003-05-09,Brazil,2023
+5601,Portimonense SC,213113,Davis Nascimento,Midfield,2002-08-13,Brazil,2023
+5601,Portimonense SC,214401,Ricardo Sousa,Midfield,2001-06-09,Portugal,2023
+5601,Portimonense SC,217493,Dener Clemente,Midfield,1992-03-13,Brazil,2023
+5601,Portimonense SC,137476,Sylvester Jasper,Offence,2001-09-13,Bulgaria,2023
+5601,Portimonense SC,213119,Hélio Varela,Offence,2002-05-03,Cape Verde Islands,2023
+5601,Portimonense SC,214402,Midana Cassamá,Offence,2002-08-18,Guinea-Bissau,2023
+5601,Portimonense SC,243745,Tamble Monteiro,Offence,2000-11-15,Portugal,2023
+5601,Portimonense SC,169128,Taichi Fukui,Central Midfield,2004-07-15,Japan,2023
+5602,SC Farense,29201,Luiz Felipe,Goalkeeper,1997-04-24,Brazil,2023
+5602,SC Farense,37336,Ricardo Velho,Goalkeeper,1998-08-20,Portugal,2023
+5602,SC Farense,52986,Miguel Carvalho,Goalkeeper,1996-06-20,Portugal,2023
+5602,SC Farense,139966,Kauan Tomé,Goalkeeper,2002-01-13,Brazil,2023
+5602,SC Farense,213106,Hamidou Diallo,Defence,2002-01-26,Mali,2023
+5602,SC Farense,213088,Claudio Falcão,Midfield,1994-07-03,Brazil,2023
+5602,SC Farense,213100,Rafinha,Midfield,2002-10-10,Portugal,2023
+5602,SC Farense,213105,Diogo Paulo,Midfield,2001-07-06,Portugal,2023
+5602,SC Farense,252899,Rafael Teixeira,Midfield,2006-01-18,Portugal,2023
+5602,SC Farense,37688,Rui Costa,Offence,1996-02-20,Portugal,2023
+5602,SC Farense,213092,André Candeias,Offence,2003-01-20,Portugal,2023
+5602,SC Farense,115247,Talys Oliveira,Left-Back,1999-02-10,Brazil,2023
+5602,SC Farense,73210,Bruno Duarte,Centre-Forward,1996-03-24,Brazil,2023
+5602,SC Farense,53019,Fabrício Isidoro,Central Midfield,1992-01-28,Brazil,2023
+5602,SC Farense,45502,João Talocha,Left-Back,1989-08-30,Portugal,2023
+5602,SC Farense,45296,Gonçalo Silva,Centre-Back,1991-06-04,Portugal,2023
+5602,SC Farense,40677,Zach Muscat,Centre-Back,1993-08-22,Malta,2023
+5602,SC Farense,37457,Mattheus Oliveira,Central Midfield,1994-07-07,Brazil,2023
+5602,SC Farense,37176,Vítor Gonçalves,Central Midfield,1992-03-29,Portugal,2023
+5602,SC Farense,37102,Cristian Ponde,Right Winger,1995-01-26,Portugal,2023
+5602,SC Farense,22308,Jhon Velásquez Turga,Attacking Midfield,1995-05-02,Colombia,2023
+5602,SC Farense,16402,Artur Jorge,Centre-Back,1994-08-14,Portugal,2023
+5602,SC Farense,16149,Zé Luís,Centre-Forward,1991-01-24,Cape Verde Islands,2023
+5602,SC Farense,15896,Elves,Right Winger,1999-10-02,Portugal,2023
+5602,SC Farense,15895,Rafael  Barbosa,Attacking Midfield,1996-03-29,Portugal,2023
+5602,SC Farense,11490,Marco Matias,Left Winger,1989-05-10,Portugal,2023
+5602,SC Farense,218404,Igor Rossi,Centre-Back,1989-03-10,Brazil,2023
+5602,SC Farense,213078,André Seruca,Defensive Midfield,2000-10-29,Portugal,2023
+5602,SC Farense,213072,Mohamed Belloumi,Right Winger,2002-06-01,Algeria,2023
+5602,SC Farense,153579,Facundo Cáseres,Central Midfield,2001-05-28,Argentina,2023
+5602,SC Farense,150648,Adewele Sapara,Left Winger,1995-01-27,Nigeria,2023
+5602,SC Farense,150595,Fran Delgado,Right-Back,2001-07-11,Spain,2023
+5602,SC Farense,140905,David Pastor,Right-Back,2000-02-20,Brazil,2023
+5613,Sporting Clube de Braga,37817,Tiago Sá,Goalkeeper,1995-01-11,Portugal,2023
+5613,Sporting Clube de Braga,146753,Lukáš Horníček,Goalkeeper,2002-07-13,Czech Republic,2023
+5613,Sporting Clube de Braga,178752,Matheus Magalhães,Goalkeeper,1992-03-29,Brazil,2023
+5613,Sporting Clube de Braga,182049,Bernardo Fontes,Goalkeeper,2002-07-23,Brazil,2023
+5613,Sporting Clube de Braga,171334,Marco Torres,Defence,2003-02-18,Portugal,2023
+5613,Sporting Clube de Braga,180150,Victor Gómez,Defence,2000-04-01,Spain,2023
+5613,Sporting Clube de Braga,246367,Nuno Matos,Defence,2004-10-04,Portugal,2023
+5613,Sporting Clube de Braga,246741,Francisco Chissumba,Defence,2005-05-29,Portugal,2023
+5613,Sporting Clube de Braga,121007,Rodrigo Zalazar,Midfield,1999-08-12,Uruguay,2023
+5613,Sporting Clube de Braga,215774,El Hadji Soumaré,Midfield,2003-01-07,Senegal,2023
+5613,Sporting Clube de Braga,74554,Simon Banza,Offence,1996-08-13,Congo DR,2023
+5613,Sporting Clube de Braga,178733,Roger Fernandes,Offence,2005-11-21,Portugal,2023
+5613,Sporting Clube de Braga,203295,Kauan Kelvin,Offence,2005-01-21,Brazil,2023
+5613,Sporting Clube de Braga,246609,Yan Said,Offence,2002-11-08,Portugal,2023
+5613,Sporting Clube de Braga,45401,Ricardo Horta,Left Winger,1994-09-15,Portugal,2023
+5613,Sporting Clube de Braga,39646,Cristian Borja,Left-Back,1993-02-18,Colombia,2023
+5613,Sporting Clube de Braga,33339,Paulo Oliveira,Centre-Back,1992-01-08,Portugal,2023
+5613,Sporting Clube de Braga,33111,Adrián Gomez,null,1997-01-09,Spain,2023
+5613,Sporting Clube de Braga,32511,Abel Ruiz,Centre-Forward,2000-01-28,Spain,2023
+5613,Sporting Clube de Braga,16754,Pizzi,Attacking Midfield,1989-10-06,Portugal,2023
+5613,Sporting Clube de Braga,13911,Vitor Carvalho,Defensive Midfield,1997-05-27,Brazil,2023
+5613,Sporting Clube de Braga,9553,Bruma,Left Winger,1994-10-24,Guinea-Bissau,2023
+5613,Sporting Clube de Braga,8758,Rony Lopes,Right Winger,1995-12-28,Brazil,2023
+5613,Sporting Clube de Braga,3977,Lucas Piazon,Attacking Midfield,1994-01-20,Brazil,2023
+5613,Sporting Clube de Braga,3249,João Moutinho,Central Midfield,1986-09-08,Portugal,2023
+5613,Sporting Clube de Braga,3245,José Fonte,Centre-Back,1983-12-22,Portugal,2023
+5613,Sporting Clube de Braga,469,Sikou Niakaté,Centre-Back,1999-07-10,France,2023
+5613,Sporting Clube de Braga,192307,Cher Ndour,Central Midfield,2004-07-27,Italy,2023
+5613,Sporting Clube de Braga,185137,Álvaro Djaló,Left Winger,1999-08-16,Spain,2023
+5613,Sporting Clube de Braga,180607,Joe Mendes,Right-Back,2002-12-31,Sweden,2023
+5613,Sporting Clube de Braga,154750,Serdar Saatçı,Centre-Back,2003-02-14,Turkey,2023
+6618,Casa Pia AC,43642,Daniel Azevedo,Goalkeeper,1998-02-12,Portugal,2023
+6618,Casa Pia AC,77869,Ricardo Batista,Goalkeeper,1986-11-19,Portugal,2023
+6618,Casa Pia AC,185128,Lucas Paes,Goalkeeper,1997-12-07,Brazil,2023
+6618,Casa Pia AC,213099,Afonso Monteiro,Goalkeeper,2005-06-27,Portugal,2023
+6618,Casa Pia AC,249234,André,Left Winger,2001-05-19,Portugal,2023
+6618,Casa Pia AC,246461,Fahem Benaïssa-Yahia,Left-Back,2002-04-29,France,2023
+6618,Casa Pia AC,217543,Samuel Justo,Central Midfield,2004-04-02,Portugal,2023
+6618,Casa Pia AC,204134,Kiki Silva,Right Winger,1998-02-14,Portugal,2023
+6618,Casa Pia AC,191259,Beni,Central Midfield,2002-05-21,Angola,2023
+6618,Casa Pia AC,185146,Leonardo Lelo,Left-Back,2000-03-30,Portugal,2023
+6618,Casa Pia AC,178764,Fernando Andrade,Left Winger,1993-01-08,Brazil,2023
+6618,Casa Pia AC,171304,Nuno Moreira,Left Winger,1999-06-16,Portugal,2023
+6618,Casa Pia AC,129709,Telasco Segovia,Central Midfield,2003-04-02,Venezuela,2023
+6618,Casa Pia AC,128303,Samuel Silvera,Right Winger,2000-10-25,Portugal,2023
+6618,Casa Pia AC,126877,Larra,Right-Back,1997-12-17,Spain,2023
+6618,Casa Pia AC,126156,Rafael Brito,Defensive Midfield,2002-01-19,Portugal,2023
+6618,Casa Pia AC,80044,Yuki Soma,Right Winger,1997-02-25,Japan,2023
+6618,Casa Pia AC,64370,João Nunes,Centre-Back,1995-11-19,Portugal,2023
+6618,Casa Pia AC,45303,Geraldes,Right-Back,1991-05-02,Portugal,2023
+6618,Casa Pia AC,45201,Neto,Central Midfield,1991-09-02,Brazil,2023
+6618,Casa Pia AC,43495,Fernando Varela,Centre-Back,1987-11-26,Cape Verde Islands,2023
+6618,Casa Pia AC,37967,Kevin Krygård,Defensive Midfield,2000-05-17,Norway,2023
+6618,Casa Pia AC,16854,Nermin Zolotić,Centre-Back,1993-07-07,Bosnia-Herzegovina,2023
+6618,Casa Pia AC,12813,Pablo Barbosa,Central Midfield,1999-11-14,Brazil,2023
+6618,Casa Pia AC,12647,Felippe Cardoso,Centre-Forward,1998-10-04,Brazil,2023
+6618,Casa Pia AC,8781,Duplexe Tchamba,Centre-Back,1998-07-10,Cameroon,2023
+6618,Casa Pia AC,6430,Ruben Lameiras,Right Winger,1994-12-22,Portugal,2023
+6618,Casa Pia AC,1764,Tiago Dias,Left-Back,1998-05-04,Portugal,2023
+9136,CF Estrela da Amadora,12746,Bruno Brigido,Goalkeeper,1991-03-09,Brazil,2023
+9136,CF Estrela da Amadora,45466,António Filipe,Goalkeeper,1985-04-14,Portugal,2023
+9136,CF Estrela da Amadora,213123,Dida,Goalkeeper,1998-04-28,Brazil,2023
+9136,CF Estrela da Amadora,230368,Cambila,Goalkeeper,2002-05-16,Angola,2023
+9136,CF Estrela da Amadora,213104,Manuel Figueiredo,Midfield,2002-02-16,Portugal,2023
+9136,CF Estrela da Amadora,244810,Eurichano Setila,Offence,2004-02-17,Angola,2023
+9136,CF Estrela da Amadora,178810,André Luiz,Centre-Forward,2002-02-23,Brazil,2023
+9136,CF Estrela da Amadora,153938,Leonel Bucca,Central Midfield,1999-03-20,Argentina,2023
+9136,CF Estrela da Amadora,131219,Nilton Varela,Left Winger,2001-05-25,Portugal,2023
+9136,CF Estrela da Amadora,129465,Johnstone Omurwa,Centre-Back,1998-08-08,Kenya,2023
+9136,CF Estrela da Amadora,80358,Aloísio Souza Genézio,Defensive Midfield,1996-05-03,Brazil,2023
+9136,CF Estrela da Amadora,79824,Kikas,Centre-Forward,1998-09-17,Portugal,2023
+9136,CF Estrela da Amadora,49438,Léo Jabá,Right Winger,1998-08-02,Brazil,2023
+9136,CF Estrela da Amadora,45371,Pedro Sá,Defensive Midfield,1993-12-01,Portugal,2023
+9136,CF Estrela da Amadora,45353,Nanú,Right-Back,1994-05-17,Guinea-Bissau,2023
+9136,CF Estrela da Amadora,45350,Rodrigo Pinho,Centre-Forward,1991-05-30,Germany,2023
+9136,CF Estrela da Amadora,45195,Ruben Lima,Left-Back,1989-10-03,Portugal,2023
+9136,CF Estrela da Amadora,37514,Jean Felipe,Right-Back,1994-03-18,Brazil,2023
+9136,CF Estrela da Amadora,37396,João Reis,Left-Back,1992-06-24,Portugal,2023
+9136,CF Estrela da Amadora,30411,Miguel Lopes,Right-Back,1986-12-19,Portugal,2023
+9136,CF Estrela da Amadora,15894,Ronaldo Tavares,Centre-Forward,1997-07-22,Portugal,2023
+9136,CF Estrela da Amadora,8374,Pedro Mendes,Centre-Back,1990-10-01,Portugal,2023
+9136,CF Estrela da Amadora,8002,Tashan Oakley-Boothe,Central Midfield,2000-02-14,England,2023
+9136,CF Estrela da Amadora,1600,Mansur,Left-Back,1993-04-17,Brazil,2023
+9136,CF Estrela da Amadora,246341,Tiago Gabriel,Centre-Back,2004-12-26,Portugal,2023
+9136,CF Estrela da Amadora,213134,Lucão,Centre-Back,1998-03-25,Brazil,2023
+9136,CF Estrela da Amadora,213132,Leonardo Silva,Central Midfield,1995-09-27,Brazil,2023
+9136,CF Estrela da Amadora,213131,Heverton Santos,Right-Back,2001-02-01,Brazil,2023
+9136,CF Estrela da Amadora,213128,Keliano,Defensive Midfield,2003-01-16,Angola,2023
+9136,CF Estrela da Amadora,213126,Kwenzokuhle Shinga,Left-Back,2000-03-30,South Africa,2023
+9136,CF Estrela da Amadora,213110,Regis Ndo,Right Winger,2001-05-22,Burkina Faso,2023
+9136,CF Estrela da Amadora,213084,Cristiano Fitzgerald,Left Winger,2003-11-10,Ireland,2023
+9136,CF Estrela da Amadora,213082,Gustavo Henrique,Left Winger,1999-05-24,Brazil,2023
+9136,CF Estrela da Amadora,213073,Kialonda Gaspar,Centre-Back,1997-09-27,Angola,2023
+9136,CF Estrela da Amadora,192349,Diogo Fonseca,Centre-Back,2002-04-10,Portugal,2023
+9136,CF Estrela da Amadora,181489,André,null,2003-10-07,Brazil,2023
